@@ -1,0 +1,6970 @@
+[
+  {
+    "id": "fuerza-total-principiante",
+    "nombre": "Fuerza total",
+    "nivel": "principiante",
+    "categoria": "fuerza",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio Ligero",
+        "duracion": "10 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Sentadillas con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "sentadilla-barra"
+          },
+          {
+            "orden": 2,
+            "nombre": "Press de banca",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "press-banca"
+          },
+          {
+            "orden": 3,
+            "nombre": "Peso muerto",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "peso-muerto"
+          },
+          {
+            "orden": 4,
+            "nombre": "Dominadas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "máximas reps",
+            "descanso": "40 seg",
+            "ejercicioId": "dominadas"
+          },
+          {
+            "orden": 5,
+            "nombre": "Remo con mancuerna",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-mancuerna"
+          },
+          {
+            "orden": 6,
+            "nombre": "Curl de biceps",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "1 min",
+            "ejercicioId": "curl-mancuernas"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos",
+        "duracion": null
+      }
+    ],
+    "origen": "FUERZA BASICO fila 4, col 2"
+  },
+  {
+    "id": "fuerza-tren-superior-principiante",
+    "nombre": "Fuerza tren superior",
+    "nivel": "principiante",
+    "categoria": "fuerza",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Soga",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Press militar con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "press-militar-barra"
+          },
+          {
+            "orden": 2,
+            "nombre": "Remo en barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-barra"
+          },
+          {
+            "orden": 3,
+            "nombre": "Pull-ups",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "6",
+            "descanso": "40 seg",
+            "ejercicioId": "dominadas"
+          },
+          {
+            "orden": 4,
+            "nombre": "Fondos en paralelas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "fondos-paralelas"
+          },
+          {
+            "orden": 5,
+            "nombre": "Curl de biceps con barra",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-barra"
+          },
+          {
+            "orden": 6,
+            "nombre": "Extensiones de triceps",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "10",
+            "descanso": "1 min",
+            "ejercicioId": "triceps-mancuernas"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos de tren superior",
+        "duracion": null
+      }
+    ],
+    "origen": "FUERZA BASICO fila 4, col 7"
+  },
+  {
+    "id": "fuerza-corporal-principiante",
+    "nombre": "Fuerza corporal",
+    "nivel": "principiante",
+    "categoria": "fuerza",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Trote progresivo",
+        "duracion": "10 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Sentadillas con peso",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "sentadilla-barra"
+          },
+          {
+            "orden": 2,
+            "nombre": "Press militar con mancuernas",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "press-militar-mancuernas"
+          },
+          {
+            "orden": 3,
+            "nombre": "Peso muerto sumo",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "peso-muerto-sumo"
+          },
+          {
+            "orden": 4,
+            "nombre": "Dominadas asistidas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "dominadas-asistidas"
+          },
+          {
+            "orden": 5,
+            "nombre": "Remo con cable",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-cable"
+          },
+          {
+            "orden": 6,
+            "nombre": "Curl de biceps martillo",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "1 min",
+            "ejercicioId": "curl-martillo"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "FUERZA BASICO fila 20, col 2"
+  },
+  {
+    "id": "fuerza-empuje-tiron-principiante",
+    "nombre": "Fuerza empuje/tirón",
+    "nivel": "principiante",
+    "categoria": "fuerza",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Soga",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Press de banca",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "6",
+            "descanso": "40 seg",
+            "ejercicioId": "press-banca"
+          },
+          {
+            "orden": 2,
+            "nombre": "Remo con barra T",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "6",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-barra-t"
+          },
+          {
+            "orden": 3,
+            "nombre": "Fondos en paralelas",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "fondos-paralelas"
+          },
+          {
+            "orden": 4,
+            "nombre": "Dominadas",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "6",
+            "descanso": "40 seg",
+            "ejercicioId": "dominadas"
+          },
+          {
+            "orden": 5,
+            "nombre": "Elevaciones laterales",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "elevaciones-laterales"
+          },
+          {
+            "orden": 6,
+            "nombre": "Extensiones de triceps en banco",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "1 min",
+            "ejercicioId": "triceps-barra-z"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "FUERZA BASICO fila 20, col 7"
+  },
+  {
+    "id": "fuerza-tren-inferior-principiante",
+    "nombre": "Fuerza tren inferior",
+    "nivel": "principiante",
+    "categoria": "fuerza",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Bicicleta progresiva",
+        "duracion": "10 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Sentadillas con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "6",
+            "descanso": "40 seg",
+            "ejercicioId": "sentadilla-barra"
+          },
+          {
+            "orden": 2,
+            "nombre": "Peso muerto rumano",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "6",
+            "descanso": "40 seg",
+            "ejercicioId": "peso-muerto-rumano"
+          },
+          {
+            "orden": 3,
+            "nombre": "Prensa de piernas",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "prensa"
+          },
+          {
+            "orden": 4,
+            "nombre": "Elevaciones de talones",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "gemelos-pie"
+          },
+          {
+            "orden": 5,
+            "nombre": "Zancadas con barra",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "zancadas-barra"
+          },
+          {
+            "orden": 6,
+            "nombre": "Curl de piernas",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "10",
+            "descanso": "1 min",
+            "ejercicioId": "curl-piernas"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "FUERZA BASICO fila 36, col 2"
+  },
+  {
+    "id": "fuerza-y-explosividad-principiante",
+    "nombre": "Fuerza y explosividad",
+    "nivel": "principiante",
+    "categoria": "fuerza_explosividad",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio ligero",
+        "duracion": "10 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Sentadillas con salto",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "sentadilla-salto"
+          },
+          {
+            "orden": 2,
+            "nombre": "Press de pecho con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "press-banca-mancuernas"
+          },
+          {
+            "orden": 3,
+            "nombre": "Peso muerto con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "peso-muerto-mancuernas"
+          },
+          {
+            "orden": 4,
+            "nombre": "Remo con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-mancuerna"
+          },
+          {
+            "orden": 5,
+            "nombre": "Saltos en caja",
+            "seccion": "potencia",
+            "series": 2,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "salto-caja"
+          },
+          {
+            "orden": 6,
+            "nombre": "Kettlebell swing",
+            "seccion": "potencia",
+            "series": 2,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "kettlebell-swing"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "FUERZA Y EXPLOSIVIDAD fila 4, col 2"
+  },
+  {
+    "id": "fuerza-y-explosividad-intermedio",
+    "nombre": "Fuerza y explosividad",
+    "nivel": "intermedio",
+    "categoria": "fuerza_explosividad",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio moderado",
+        "duracion": "10 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Sentadillas con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "sentadilla-barra"
+          },
+          {
+            "orden": 2,
+            "nombre": "Press de banca",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "press-banca"
+          },
+          {
+            "orden": 3,
+            "nombre": "Peso muerto",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "peso-muerto"
+          },
+          {
+            "orden": 4,
+            "nombre": "Remo con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-barra"
+          },
+          {
+            "orden": 5,
+            "nombre": "Saltos en caja",
+            "seccion": "potencia",
+            "series": 3,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "salto-caja"
+          },
+          {
+            "orden": 6,
+            "nombre": "Kettlebell swing",
+            "seccion": "potencia",
+            "series": 3,
+            "repeticiones": "20",
+            "descanso": "40 seg",
+            "ejercicioId": "kettlebell-swing"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "FUERZA Y EXPLOSIVIDAD fila 4, col 8"
+  },
+  {
+    "id": "fuerza-y-explosividad-avanzado",
+    "nombre": "Fuerza y explosividad",
+    "nivel": "avanzado",
+    "categoria": "fuerza_explosividad",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio intenso",
+        "duracion": "10 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Sentadillas pesadas",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "6",
+            "descanso": "1 min",
+            "ejercicioId": "sentadilla-barra"
+          },
+          {
+            "orden": 2,
+            "nombre": "Press de banca con barra",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "6",
+            "descanso": "1 min",
+            "ejercicioId": "press-banca"
+          },
+          {
+            "orden": 3,
+            "nombre": "Peso muerto convencional",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "6",
+            "descanso": "1 min",
+            "ejercicioId": "peso-muerto"
+          },
+          {
+            "orden": 4,
+            "nombre": "Remo con mancuernas",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "6",
+            "descanso": "1 min",
+            "ejercicioId": "remo-mancuerna"
+          },
+          {
+            "orden": 5,
+            "nombre": "Saltos en caja con peso",
+            "seccion": "potencia",
+            "series": 4,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "salto-caja"
+          },
+          {
+            "orden": 6,
+            "nombre": "Kettlebell swing pesados",
+            "seccion": "potencia",
+            "series": 4,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "kettlebell-swing"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos y foam rolling",
+        "duracion": "10 min"
+      }
+    ],
+    "origen": "FUERZA Y EXPLOSIVIDAD fila 22, col 2"
+  },
+  {
+    "id": "hipertrofia-general-principiante",
+    "nombre": "Hipertrofia general",
+    "nivel": "principiante",
+    "categoria": "hipertrofia",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio ligero",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Sentadilla con mancuernas",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "sentadilla-mancuernas"
+          },
+          {
+            "orden": 2,
+            "nombre": "Press de hombros con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "press-militar-barra"
+          },
+          {
+            "orden": 3,
+            "nombre": "Peso muerto rumano",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "peso-muerto-rumano"
+          },
+          {
+            "orden": 4,
+            "nombre": "Pull-ups asistidos",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "dominadas-asistidas"
+          },
+          {
+            "orden": 5,
+            "nombre": "Curl de biceps con polea",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-polea"
+          },
+          {
+            "orden": 6,
+            "nombre": "Extensiones de triceps con cuerda",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "triceps-cuerda"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "hyper principiantes fila 4, col 3"
+  },
+  {
+    "id": "hipertrofia-inferior-superior-principiante",
+    "nombre": "Hipertrofia inferior / superior",
+    "nivel": "principiante",
+    "categoria": "hipertrofia",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Caminata rapida",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Prensa de piernas",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "prensa"
+          },
+          {
+            "orden": 2,
+            "nombre": "Elevaciones de talones",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "20",
+            "descanso": "40 seg",
+            "ejercicioId": "gemelos-pie"
+          },
+          {
+            "orden": 3,
+            "nombre": "Press militar con mancuernas",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "press-militar-mancuernas"
+          },
+          {
+            "orden": 4,
+            "nombre": "Dominadas asistidas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "dominadas-asistidas"
+          },
+          {
+            "orden": 5,
+            "nombre": "Abducciones de cadera en maquina",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "abduccion-cadera"
+          },
+          {
+            "orden": 6,
+            "nombre": "Curl de biceps alterno",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "1 min",
+            "ejercicioId": "curl-alterno"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "hyper principiantes fila 4, col 9"
+  },
+  {
+    "id": "hipertrofia-pectoral-principiante",
+    "nombre": "Hipertrofia pectoral",
+    "nivel": "principiante",
+    "categoria": "hipertrofia",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio ligero",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Press banca con mancuernas",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "press-banca-mancuernas"
+          },
+          {
+            "orden": 2,
+            "nombre": "Aperturas con mancuernas",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "aperturas"
+          },
+          {
+            "orden": 3,
+            "nombre": "Press inclinado con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "press-inclinado-barra"
+          },
+          {
+            "orden": 4,
+            "nombre": "Fondos en paralelas(enfocado a pecho)",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "fondos-pecho"
+          },
+          {
+            "orden": 5,
+            "nombre": "Cruces en polea",
+            "seccion": "complementario",
+            "series": 4,
+            "repeticiones": "15",
+            "descanso": "1 min",
+            "ejercicioId": "cruces-polea"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "hyper principiantes fila 22, col 3"
+  },
+  {
+    "id": "hipertrofia-espalda-principiante",
+    "nombre": "Hipertrofia espalda",
+    "nivel": "principiante",
+    "categoria": "hipertrofia",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio ligero",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Remo con barras",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-barra"
+          },
+          {
+            "orden": 2,
+            "nombre": "Jalones en polea",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "jalon-pecho"
+          },
+          {
+            "orden": 3,
+            "nombre": "Remo en maquina",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-maquina"
+          },
+          {
+            "orden": 4,
+            "nombre": "Pull-ups asistidos",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "dominadas-asistidas"
+          },
+          {
+            "orden": 5,
+            "nombre": "Pull over con mancuernas",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "1 min",
+            "ejercicioId": "pullover"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos de espalda",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "hyper principiantes fila 22, col 9"
+  },
+  {
+    "id": "hipertrofia-tren-inferior-principiante",
+    "nombre": "Hipertrofia tren inferior",
+    "nivel": "principiante",
+    "categoria": "hipertrofia",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Bicicleta o caminata rapida",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Sentadillas con mancuernas",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "sentadilla-mancuernas"
+          },
+          {
+            "orden": 2,
+            "nombre": "Prensa",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "prensa"
+          },
+          {
+            "orden": 3,
+            "nombre": "Elevaciones de talones sentado",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "gemelos-sentado"
+          },
+          {
+            "orden": 4,
+            "nombre": "Extensiones de piernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "extension-piernas"
+          },
+          {
+            "orden": 5,
+            "nombre": "Curl de piernas acostado",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "1 min",
+            "ejercicioId": "curl-piernas"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos de piernas",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "hyper principiantes fila 40, col 3"
+  },
+  {
+    "id": "hipertrofia-hombros-principiante",
+    "nombre": "Hipertrofia hombros",
+    "nivel": "principiante",
+    "categoria": "hipertrofia",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio ligero",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Press militar con mancuernas",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "press-militar-mancuernas"
+          },
+          {
+            "orden": 2,
+            "nombre": "Elevaciones laterales",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "elevaciones-laterales"
+          },
+          {
+            "orden": 3,
+            "nombre": "Elevaciones frontales",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "elevaciones-frontales"
+          },
+          {
+            "orden": 4,
+            "nombre": "Pajaros con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "pajaros"
+          },
+          {
+            "orden": 5,
+            "nombre": "Face pulls",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "1 min",
+            "ejercicioId": "face-pull"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos de hombros",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "hyper principiantes fila 40, col 9"
+  },
+  {
+    "id": "hipertrofia-brazos-principiante",
+    "nombre": "Hipertrofia brazos",
+    "nivel": "principiante",
+    "categoria": "hipertrofia",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Estiramientos dinámicos",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Curl de biceps con mancuernas",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-mancuernas"
+          },
+          {
+            "orden": 2,
+            "nombre": "Extensiones de triceps en polea",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "triceps-polea"
+          },
+          {
+            "orden": 3,
+            "nombre": "Curl de biceps con barra Z",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-barra-z"
+          },
+          {
+            "orden": 4,
+            "nombre": "Fondos en banco",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "fondos-banco"
+          },
+          {
+            "orden": 5,
+            "nombre": "Curl inverso",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "1 min",
+            "ejercicioId": "curl-inverso"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos de brazos",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "hyper principiantes fila 40, col 15"
+  },
+  {
+    "id": "hipertrofia-pectoral-principiante-2",
+    "nombre": "Hipertrofia pectoral",
+    "nivel": "principiante",
+    "categoria": "hipertrofia",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio ligero",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Press de banca con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "press-banca-mancuernas"
+          },
+          {
+            "orden": 2,
+            "nombre": "Press inclinado con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "press-inclinado-mancuernas"
+          },
+          {
+            "orden": 3,
+            "nombre": "Fondos en banco",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "fondos-banco"
+          },
+          {
+            "orden": 4,
+            "nombre": "Aperturas con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "aperturas"
+          },
+          {
+            "orden": 5,
+            "nombre": "Extensiones de triceps",
+            "seccion": "complementario",
+            "series": 2,
+            "repeticiones": "15",
+            "descanso": "1 min",
+            "ejercicioId": "triceps-mancuernas"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramiento de pecho y triceps",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "hyper principiantes fila 58, col 3"
+  },
+  {
+    "id": "hipertrofia-espalda-principiante-2",
+    "nombre": "Hipertrofia espalda",
+    "nivel": "principiante",
+    "categoria": "hipertrofia",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio ligero",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Dominadas asistidas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "dominadas-asistidas"
+          },
+          {
+            "orden": 2,
+            "nombre": "Remo con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-mancuerna"
+          },
+          {
+            "orden": 3,
+            "nombre": "Peso muerto con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "peso-muerto-mancuernas"
+          },
+          {
+            "orden": 4,
+            "nombre": "Jalon al pecho",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "jalon-pecho"
+          },
+          {
+            "orden": 5,
+            "nombre": "Remo con cable",
+            "seccion": "complementario",
+            "series": 2,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-cable"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos de espalda",
+        "duracion": null
+      }
+    ],
+    "origen": "hyper principiantes fila 58, col 9"
+  },
+  {
+    "id": "hipertrofia-tren-inferior-principiante-2",
+    "nombre": "Hipertrofia tren inferior",
+    "nivel": "principiante",
+    "categoria": "hipertrofia",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Bicicleta o caminata rapida",
+        "duracion": "10 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Sentadilla con peso corporal",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "sentadilla-peso-corporal"
+          },
+          {
+            "orden": 2,
+            "nombre": "Prensa de piernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "prensa"
+          },
+          {
+            "orden": 3,
+            "nombre": "Peso muerto con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "peso-muerto-mancuernas"
+          },
+          {
+            "orden": 4,
+            "nombre": "Elevaciones de talones",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "gemelos-pie"
+          },
+          {
+            "orden": 5,
+            "nombre": "Zancadas con mancuernas",
+            "seccion": "complementario",
+            "series": 2,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "zancadas"
+          },
+          {
+            "orden": 6,
+            "nombre": "Curl de piernas en maquina",
+            "seccion": "complementario",
+            "series": 2,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-piernas"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos de piernas",
+        "duracion": "10 seg"
+      }
+    ],
+    "origen": "hyper principiantes fila 58, col 15"
+  },
+  {
+    "id": "hipertrofia-hombros-principiante-2",
+    "nombre": "Hipertrofia hombros",
+    "nivel": "principiante",
+    "categoria": "hipertrofia",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio ligero",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Press militar con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "press-militar-mancuernas"
+          },
+          {
+            "orden": 2,
+            "nombre": "Elevaciones laterales con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "elevaciones-laterales"
+          },
+          {
+            "orden": 3,
+            "nombre": "Elevaciones frontales con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "elevaciones-frontales"
+          },
+          {
+            "orden": 4,
+            "nombre": "Remo al cuello con barra",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-al-menton"
+          },
+          {
+            "orden": 5,
+            "nombre": "Elevaciones posteriores con maquina",
+            "seccion": "complementario",
+            "series": 2,
+            "repeticiones": "15",
+            "descanso": "1 min",
+            "ejercicioId": "elevaciones-posteriores-maquina"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos de hombros",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "hyper principiantes fila 76, col 3"
+  },
+  {
+    "id": "hipertrofia-brazos-principiante-2",
+    "nombre": "Hipertrofia brazos",
+    "nivel": "principiante",
+    "categoria": "hipertrofia",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio ligero",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Curl de biceps con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-mancuernas"
+          },
+          {
+            "orden": 2,
+            "nombre": "Extensiones de triceps con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "triceps-mancuernas"
+          },
+          {
+            "orden": 3,
+            "nombre": "Curl de biceps concentrado",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-concentrado"
+          },
+          {
+            "orden": 4,
+            "nombre": "Fondos en banco",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "fondos-banco"
+          },
+          {
+            "orden": 5,
+            "nombre": "Curl de biceps en maquina",
+            "seccion": "complementario",
+            "series": 2,
+            "repeticiones": "15",
+            "descanso": "1 min",
+            "ejercicioId": "curl-maquina"
+          },
+          {
+            "orden": 6,
+            "nombre": "Extensiones de triceps en polea",
+            "seccion": "complementario",
+            "series": 2,
+            "repeticiones": "12",
+            "descanso": null,
+            "ejercicioId": "triceps-polea"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos de hombros",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "hyper principiantes fila 76, col 9"
+  },
+  {
+    "id": "hipertrofia-superior-inferior-principiante",
+    "nombre": "Hipertrofia superior/inferior",
+    "nivel": "principiante",
+    "categoria": "hipertrofia",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio ligero",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día superior",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Press de pecho con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "press-banca-mancuernas"
+          },
+          {
+            "orden": 2,
+            "nombre": "Remo con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-mancuerna"
+          },
+          {
+            "orden": 3,
+            "nombre": "Press militar con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "press-militar-mancuernas"
+          },
+          {
+            "orden": 4,
+            "nombre": "Curl de biceps con mancuernas",
+            "seccion": "principal",
+            "series": 2,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-mancuernas"
+          },
+          {
+            "orden": 5,
+            "nombre": "Extensiones de triceps",
+            "seccion": "principal",
+            "series": 2,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "triceps-mancuernas"
+          }
+        ]
+      },
+      {
+        "nombre": "Día inferior",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Sentadillas con peso corporal",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "sentadilla-peso-corporal"
+          },
+          {
+            "orden": 2,
+            "nombre": "Peso muerto con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "1 min",
+            "ejercicioId": "peso-muerto-mancuernas"
+          },
+          {
+            "orden": 3,
+            "nombre": "Prensa",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": null,
+            "ejercicioId": "prensa"
+          },
+          {
+            "orden": 4,
+            "nombre": "Elevaciones de talones",
+            "seccion": "principal",
+            "series": 2,
+            "repeticiones": "15",
+            "descanso": null,
+            "ejercicioId": "gemelos-pie"
+          },
+          {
+            "orden": 5,
+            "nombre": "Curl de piernas",
+            "seccion": "principal",
+            "series": 2,
+            "repeticiones": "15",
+            "descanso": null,
+            "ejercicioId": "curl-piernas"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "hyper principiantes fila 94, col 3"
+  },
+  {
+    "id": "hipertrofia-principiante",
+    "nombre": "Hipertrofia",
+    "nivel": "principiante",
+    "categoria": "hipertrofia",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio ligero",
+        "duracion": "10 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Sentadillas con peso corporal",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "sentadilla-peso-corporal"
+          },
+          {
+            "orden": 2,
+            "nombre": "Press de pecho con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "press-banca-mancuernas"
+          },
+          {
+            "orden": 3,
+            "nombre": "Peso muerto con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "peso-muerto-mancuernas"
+          },
+          {
+            "orden": 4,
+            "nombre": "Remo con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-mancuerna"
+          },
+          {
+            "orden": 5,
+            "nombre": "Press militar con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "press-militar-mancuernas"
+          },
+          {
+            "orden": 6,
+            "nombre": "Curl de biceps con mancuernas",
+            "seccion": "complementario",
+            "series": 2,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-mancuernas"
+          },
+          {
+            "orden": 7,
+            "nombre": "Extensiones de triceps con mancuernas",
+            "seccion": "complementario",
+            "series": 2,
+            "repeticiones": "15",
+            "descanso": "1 min",
+            "ejercicioId": "triceps-mancuernas"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "hyper principiantes fila 94, col 9"
+  },
+  {
+    "id": "hipertrofia-tiron-empuje-tren-inferior-principiante",
+    "nombre": "Hipertrofia tirón / empuje, tren inferior",
+    "nivel": "principiante",
+    "categoria": "hipertrofia",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio ligero",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día superior",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Press de banca con mancuernas",
+            "seccion": "empuje",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "press-banca-mancuernas"
+          },
+          {
+            "orden": 2,
+            "nombre": "Press militar con mancuernas",
+            "seccion": "empuje",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "press-militar-mancuernas"
+          },
+          {
+            "orden": 3,
+            "nombre": "Fondos en banco",
+            "seccion": "empuje",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "fondos-banco"
+          },
+          {
+            "orden": 4,
+            "nombre": "Remo con mancuernas",
+            "seccion": "tiron",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-mancuerna"
+          },
+          {
+            "orden": 5,
+            "nombre": "Peso muerto con mancuernas",
+            "seccion": "tiron",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "1 min",
+            "ejercicioId": "peso-muerto-mancuernas"
+          },
+          {
+            "orden": 6,
+            "nombre": "Curl de biceps con mancuernas",
+            "seccion": "tiron",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": null,
+            "ejercicioId": "curl-mancuernas"
+          }
+        ]
+      },
+      {
+        "nombre": "Día inferior",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Sentadillas con peso corporal",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "sentadilla-peso-corporal"
+          },
+          {
+            "orden": 2,
+            "nombre": "Prensa",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "1 min",
+            "ejercicioId": "prensa"
+          },
+          {
+            "orden": 3,
+            "nombre": "Elevaciones de talones",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": null,
+            "ejercicioId": "gemelos-pie"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "hyper principiantes fila 114, col 3"
+  },
+  {
+    "id": "hipertrofia-pectoral-intermedio",
+    "nombre": "Hipertrofia pectoral",
+    "nivel": "intermedio",
+    "categoria": "hipertrofia",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio moderado",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Press de banca con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "press-banca"
+          },
+          {
+            "orden": 2,
+            "nombre": "Press inclinado con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "press-inclinado-barra"
+          },
+          {
+            "orden": 3,
+            "nombre": "Fondos en paralelas",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "fondos-paralelas"
+          },
+          {
+            "orden": 4,
+            "nombre": "Aperturas con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "aperturas"
+          },
+          {
+            "orden": 5,
+            "nombre": "Extensiones de triceps con polea",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "triceps-polea"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos de pecho y triceps",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "hyper intermedio fila 4, col 3"
+  },
+  {
+    "id": "hipertrofia-general-intermedio",
+    "nombre": "Hipertrofia general",
+    "nivel": "intermedio",
+    "categoria": "hipertrofia",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio ligero",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Sentadillas con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "sentadilla-barra"
+          },
+          {
+            "orden": 2,
+            "nombre": "Press de banca con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "press-banca"
+          },
+          {
+            "orden": 3,
+            "nombre": "Peso muerto",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "peso-muerto"
+          },
+          {
+            "orden": 4,
+            "nombre": "Remo con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-barra"
+          },
+          {
+            "orden": 5,
+            "nombre": "Press militar con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "press-militar-barra"
+          },
+          {
+            "orden": 6,
+            "nombre": "Curl de biceps en barra",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "1 min",
+            "ejercicioId": "curl-barra"
+          },
+          {
+            "orden": 7,
+            "nombre": "Extensiones de triceps en polea con cuerda",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "1 min",
+            "ejercicioId": "triceps-cuerda"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "hyper intermedio fila 4, col 15"
+  },
+  {
+    "id": "hipertrofia-brazos-intermedio",
+    "nombre": "Hipertrofia brazos",
+    "nivel": "intermedio",
+    "categoria": "hipertrofia",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio ligero",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Curl de biceps con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-barra"
+          },
+          {
+            "orden": 2,
+            "nombre": "Extensiones de triceps con cuerda",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "triceps-cuerda"
+          },
+          {
+            "orden": 3,
+            "nombre": "Curl de biceps concentrado",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-concentrado"
+          },
+          {
+            "orden": 4,
+            "nombre": "Fondos en paralelas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "fondos-paralelas"
+          },
+          {
+            "orden": 5,
+            "nombre": "Curl de biceps en polea",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "1 min",
+            "ejercicioId": "curl-polea"
+          },
+          {
+            "orden": 6,
+            "nombre": "Extensiones de triceps en polea",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "1 min",
+            "ejercicioId": "triceps-polea"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos de brazos",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "hyper intermedio fila 23, col 15"
+  },
+  {
+    "id": "hipertrofia-hombros-intermedio",
+    "nombre": "Hipertrofia hombros",
+    "nivel": "intermedio",
+    "categoria": "hipertrofia",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio moderado",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Press militar con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "press-militar-barra"
+          },
+          {
+            "orden": 2,
+            "nombre": "Elevaciones laterales con mancuernas",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "elevaciones-laterales"
+          },
+          {
+            "orden": 3,
+            "nombre": "Elevaciones frontales con mancuernas",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "elevaciones-frontales"
+          },
+          {
+            "orden": 4,
+            "nombre": "Remo al cuello con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-al-menton"
+          },
+          {
+            "orden": 5,
+            "nombre": "Elevaciones posteriores con maquina",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "1 min",
+            "ejercicioId": "elevaciones-posteriores-maquina"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos de hombros",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "hyper intermedio fila 59, col 9"
+  },
+  {
+    "id": "hipertrofia-superior-inferior-intermedio",
+    "nombre": "Hipertrofia superior / inferior",
+    "nivel": "intermedio",
+    "categoria": "hipertrofia",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio moderado",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día superior",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Press de banca con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "press-banca"
+          },
+          {
+            "orden": 2,
+            "nombre": "Remo con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-barra"
+          },
+          {
+            "orden": 3,
+            "nombre": "Press militar con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "press-militar-barra"
+          },
+          {
+            "orden": 4,
+            "nombre": "Curl de biceps con barra",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-barra"
+          },
+          {
+            "orden": 5,
+            "nombre": "Extensiones de triceps en polea",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "triceps-polea"
+          }
+        ]
+      },
+      {
+        "nombre": "Día inferior",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Sentadillas con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "sentadilla-barra"
+          },
+          {
+            "orden": 2,
+            "nombre": "Peso muerto rumano",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "peso-muerto-rumano"
+          },
+          {
+            "orden": 3,
+            "nombre": "Prensa",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "prensa"
+          },
+          {
+            "orden": 4,
+            "nombre": "Elevaciones de talones",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "gemelos-pie"
+          },
+          {
+            "orden": 5,
+            "nombre": "Curl de piernas en maquina",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-piernas"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "hyper intermedio fila 59, col 15"
+  },
+  {
+    "id": "hipertrofia-espalda-intermedio",
+    "nombre": "Hipertrofia espalda",
+    "nivel": "intermedio",
+    "categoria": "hipertrofia",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio moderado",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Dominadas",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "dominadas"
+          },
+          {
+            "orden": 2,
+            "nombre": "Remo con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-barra"
+          },
+          {
+            "orden": 3,
+            "nombre": "Peso muerto rumano",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "peso-muerto-rumano"
+          },
+          {
+            "orden": 4,
+            "nombre": "Jalón al pecho",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "jalon-pecho"
+          },
+          {
+            "orden": 5,
+            "nombre": "Remo con cable",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-cable"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos de espalda",
+        "duracion": null
+      }
+    ],
+    "origen": "hyper intermedio fila 79, col 3"
+  },
+  {
+    "id": "hipertrofia-tren-inferior-intermedio",
+    "nombre": "Hipertrofia tren inferior",
+    "nivel": "intermedio",
+    "categoria": "hipertrofia",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Bicicleta o caminata rapida",
+        "duracion": "10 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Sentadilla con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "sentadilla-barra"
+          },
+          {
+            "orden": 2,
+            "nombre": "Prensa de piernas",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "prensa"
+          },
+          {
+            "orden": 3,
+            "nombre": "Peso muerto rumano",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "peso-muerto-rumano"
+          },
+          {
+            "orden": 4,
+            "nombre": "Elevaciones de talones",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "gemelos-pie"
+          },
+          {
+            "orden": 5,
+            "nombre": "Zancadas con barra",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "zancadas-barra"
+          },
+          {
+            "orden": 6,
+            "nombre": "Curl de piernas en maquina",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "1 min",
+            "ejercicioId": "curl-piernas"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos de piernas",
+        "duracion": "10 seg"
+      }
+    ],
+    "origen": "hyper intermedio fila 79, col 9"
+  },
+  {
+    "id": "hipertrofia-pectoral-avanzado",
+    "nombre": "Hipertrofia pectoral",
+    "nivel": "avanzado",
+    "categoria": "hipertrofia",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio intenso",
+        "duracion": "10 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Press de banca pesado",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "press-banca"
+          },
+          {
+            "orden": 2,
+            "nombre": "Press inclinado con barra",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "press-inclinado-barra"
+          },
+          {
+            "orden": 3,
+            "nombre": "Fondos en paralelas con peso",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "fondos-paralelas"
+          },
+          {
+            "orden": 4,
+            "nombre": "Aperturas con mancuernas pesadas",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "aperturas"
+          },
+          {
+            "orden": 5,
+            "nombre": "Extensiones de triceps con cuerda",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "triceps-cuerda"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos y foam rolling",
+        "duracion": "10 min"
+      }
+    ],
+    "origen": "hyper avanzados fila 4, col 3"
+  },
+  {
+    "id": "hipertrofia-brazos-avanzado",
+    "nombre": "Hipertrofia brazos",
+    "nivel": "avanzado",
+    "categoria": "hipertrofia",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio intenso",
+        "duracion": "10 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Curl de biceps con barra pesada",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-barra"
+          },
+          {
+            "orden": 2,
+            "nombre": "Extensiones de triceps con barra Z",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "triceps-barra-z"
+          },
+          {
+            "orden": 3,
+            "nombre": "Curl de biceps concentrado pesado",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-concentrado"
+          },
+          {
+            "orden": 4,
+            "nombre": "Fondos en paralelas con peso",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "fondos-paralelas"
+          },
+          {
+            "orden": 5,
+            "nombre": "Curl de biceps en polea pesada",
+            "seccion": "complementario",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "1 min",
+            "ejercicioId": "curl-polea"
+          },
+          {
+            "orden": 6,
+            "nombre": "Extensiones de triceps en polea pesada",
+            "seccion": "complementario",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "1 min",
+            "ejercicioId": "triceps-polea"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos y foam rolling",
+        "duracion": "10 min"
+      }
+    ],
+    "origen": "hyper avanzados fila 4, col 9"
+  },
+  {
+    "id": "hipertrofia-espalda-avanzado",
+    "nombre": "Hipertrofia espalda",
+    "nivel": "avanzado",
+    "categoria": "hipertrofia",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio intenso",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Dominadas con peso",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "6",
+            "descanso": "40 seg",
+            "ejercicioId": "dominadas-con-peso"
+          },
+          {
+            "orden": 2,
+            "nombre": "Remo con barra T",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-barra-t"
+          },
+          {
+            "orden": 3,
+            "nombre": "Peso muerto pesado",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "peso-muerto"
+          },
+          {
+            "orden": 4,
+            "nombre": "Jalon al pecho pesado",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "jalon-pecho"
+          },
+          {
+            "orden": 5,
+            "nombre": "Remo con cable pesado",
+            "seccion": "complementario",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "1 min",
+            "ejercicioId": "remo-cable"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos y foam rolling",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "hyper avanzados fila 22, col 3"
+  },
+  {
+    "id": "hipertrofia-general-avanzado",
+    "nombre": "Hipertrofia general",
+    "nivel": "avanzado",
+    "categoria": "hipertrofia",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio intenso",
+        "duracion": "10 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Sentadilla pesada",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "sentadilla-barra"
+          },
+          {
+            "orden": 2,
+            "nombre": "Press de banca con barra pesada",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "press-banca"
+          },
+          {
+            "orden": 3,
+            "nombre": "Peso muerto pesado",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "peso-muerto"
+          },
+          {
+            "orden": 4,
+            "nombre": "Remo con barra pesada",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-barra"
+          },
+          {
+            "orden": 5,
+            "nombre": "Press militar con barra pesada",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "press-militar-barra"
+          },
+          {
+            "orden": 6,
+            "nombre": "Curl de biceps en barra pesada",
+            "seccion": "complementario",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-barra"
+          },
+          {
+            "orden": 7,
+            "nombre": "Extensiones de triceps con barra Z",
+            "seccion": "complementario",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "1 min",
+            "ejercicioId": "triceps-barra-z"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos y foam rolling",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "hyper avanzados fila 22, col 15"
+  },
+  {
+    "id": "hipertrofia-tren-inferior-avanzado",
+    "nombre": "Hipertrofia tren inferior",
+    "nivel": "avanzado",
+    "categoria": "hipertrofia",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Bicicleta o caminata rapida",
+        "duracion": "10 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Sentadillas pesadas",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "sentadilla-barra"
+          },
+          {
+            "orden": 2,
+            "nombre": "Prensa de piernas pesadas",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "prensa"
+          },
+          {
+            "orden": 3,
+            "nombre": "Peso muerto rumano con barra",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "peso-muerto-rumano"
+          },
+          {
+            "orden": 4,
+            "nombre": "Elevaciones de talones en maquina",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "gemelos-pie"
+          },
+          {
+            "orden": 5,
+            "nombre": "Zancadas con barra pesada",
+            "seccion": "complementario",
+            "series": 4,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "zancadas-barra"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos de piernas y foam rolling",
+        "duracion": "10 seg"
+      }
+    ],
+    "origen": "hyper avanzados fila 59, col 9"
+  },
+  {
+    "id": "hipertrofia-hombros-avanzado",
+    "nombre": "Hipertrofia hombros",
+    "nivel": "avanzado",
+    "categoria": "hipertrofia",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio intenso",
+        "duracion": "10 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Press militar con barra pesada",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "press-militar-barra"
+          },
+          {
+            "orden": 2,
+            "nombre": "Elevaciones laterales con mancuernas pesadas",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "elevaciones-laterales"
+          },
+          {
+            "orden": 3,
+            "nombre": "Elevaciones frontales con mancuernas pesadas",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "elevaciones-frontales"
+          },
+          {
+            "orden": 4,
+            "nombre": "Remo al cuello con barra pesada",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-al-menton"
+          },
+          {
+            "orden": 5,
+            "nombre": "Elevaciones posteriores con maquina pesado",
+            "seccion": "complementario",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "1 min",
+            "ejercicioId": "elevaciones-posteriores-maquina"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos de hombros",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "hyper avanzados fila 59, col 15"
+  },
+  {
+    "id": "hipertrofia-superior-inferior-avanzado",
+    "nombre": "Hipertrofia superior / inferior",
+    "nivel": "avanzado",
+    "categoria": "hipertrofia",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio ligero",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día superior",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Press de banca con barra pesada",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "press-banca"
+          },
+          {
+            "orden": 2,
+            "nombre": "Remo con barra T",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-barra-t"
+          },
+          {
+            "orden": 3,
+            "nombre": "Press militar con barra pesada",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "press-militar-barra"
+          },
+          {
+            "orden": 4,
+            "nombre": "Curl de biceps con barra Z",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-barra-z"
+          },
+          {
+            "orden": 5,
+            "nombre": "Extensiones de triceps con cuerda",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": null,
+            "ejercicioId": "triceps-cuerda"
+          }
+        ]
+      },
+      {
+        "nombre": "Día inferior",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Sentadillas pesadas",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": "1 min",
+            "ejercicioId": "sentadilla-barra"
+          },
+          {
+            "orden": 2,
+            "nombre": "Peso muerto convencional",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": null,
+            "ejercicioId": "peso-muerto"
+          },
+          {
+            "orden": 3,
+            "nombre": "Prensa de piernas pesada",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": null,
+            "ejercicioId": "prensa"
+          },
+          {
+            "orden": 4,
+            "nombre": "Elevaciones de talones en maquina",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "20",
+            "descanso": null,
+            "ejercicioId": "gemelos-pie"
+          },
+          {
+            "orden": 5,
+            "nombre": "Curl de piernas acostado",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": null,
+            "ejercicioId": "curl-piernas"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramiento y foam rolling",
+        "duracion": "10 min"
+      }
+    ],
+    "origen": "hyper avanzados fila 77, col 3"
+  },
+  {
+    "id": "explosividad-total-principiante",
+    "nombre": "Explosividad total",
+    "nivel": "principiante",
+    "categoria": "explosividad",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio ligera",
+        "duracion": "10 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Sentadillas con salto",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "sentadilla-salto"
+          },
+          {
+            "orden": 2,
+            "nombre": "Press de pecho con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "press-banca-mancuernas"
+          },
+          {
+            "orden": 3,
+            "nombre": "Peso muerto con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "peso-muerto-mancuernas"
+          },
+          {
+            "orden": 4,
+            "nombre": "Remo con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-mancuerna"
+          },
+          {
+            "orden": 5,
+            "nombre": "Saltos en caja",
+            "seccion": "potencia",
+            "series": 2,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "salto-caja"
+          },
+          {
+            "orden": 6,
+            "nombre": "Kettlebell swing",
+            "seccion": "potencia",
+            "series": 2,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "kettlebell-swing"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos",
+        "duracion": "10 min"
+      }
+    ],
+    "origen": "EXPLOSIVIDAD TOTAL fila 4, col 2"
+  },
+  {
+    "id": "explosividad-total-intermedio",
+    "nombre": "Explosividad total",
+    "nivel": "intermedio",
+    "categoria": "explosividad",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio moderado",
+        "duracion": "10 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Sentadillas con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "8",
+            "descanso": "50 seg",
+            "ejercicioId": "sentadilla-barra"
+          },
+          {
+            "orden": 2,
+            "nombre": "Press de banca",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "8",
+            "descanso": "50 seg",
+            "ejercicioId": "press-banca"
+          },
+          {
+            "orden": 3,
+            "nombre": "Peso muerto",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "8",
+            "descanso": "50 seg",
+            "ejercicioId": "peso-muerto"
+          },
+          {
+            "orden": 4,
+            "nombre": "Remo con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "8",
+            "descanso": "50 seg",
+            "ejercicioId": "remo-barra"
+          },
+          {
+            "orden": 5,
+            "nombre": "Saltos en caja",
+            "seccion": "potencia",
+            "series": 3,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "salto-caja"
+          },
+          {
+            "orden": 6,
+            "nombre": "Kettlebell swing",
+            "seccion": "potencia",
+            "series": 3,
+            "repeticiones": "20",
+            "descanso": "40 seg",
+            "ejercicioId": "kettlebell-swing"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos",
+        "duracion": "10 min"
+      }
+    ],
+    "origen": "EXPLOSIVIDAD TOTAL fila 4, col 8"
+  },
+  {
+    "id": "explosividad-total-avanzado",
+    "nombre": "Explosividad total",
+    "nivel": "avanzado",
+    "categoria": "explosividad",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio intenso",
+        "duracion": "10 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Sentadillas pesadas",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "6",
+            "descanso": "1 min",
+            "ejercicioId": "sentadilla-barra"
+          },
+          {
+            "orden": 2,
+            "nombre": "Press de banca con barra",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "6",
+            "descanso": "1 min",
+            "ejercicioId": "press-banca"
+          },
+          {
+            "orden": 3,
+            "nombre": "Peso muerto convencional",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "6",
+            "descanso": "1 min",
+            "ejercicioId": "peso-muerto"
+          },
+          {
+            "orden": 4,
+            "nombre": "Remo con barra T",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "6",
+            "descanso": "1 min",
+            "ejercicioId": "remo-barra-t"
+          },
+          {
+            "orden": 5,
+            "nombre": "Saltos en caja con peso",
+            "seccion": "potencia",
+            "series": 4,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "salto-caja"
+          },
+          {
+            "orden": 6,
+            "nombre": "Kettlebell swing pesados",
+            "seccion": "potencia",
+            "series": 4,
+            "repeticiones": "20",
+            "descanso": "40 seg",
+            "ejercicioId": "kettlebell-swing"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos y foam rolling",
+        "duracion": "10 min"
+      }
+    ],
+    "origen": "EXPLOSIVIDAD TOTAL fila 22, col 2"
+  },
+  {
+    "id": "fuerza-empuje-tiron-principiante-2",
+    "nombre": "Fuerza empuje/tirón",
+    "nivel": "principiante",
+    "categoria": "fuerza_empuje_tiron",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio progresivo",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Press de banca con mancuernas",
+            "seccion": "empuje",
+            "series": 2,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "press-banca-mancuernas"
+          },
+          {
+            "orden": 2,
+            "nombre": "Press militar con mancuernas",
+            "seccion": "empuje",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "press-militar-mancuernas"
+          },
+          {
+            "orden": 3,
+            "nombre": "Fondos en banco",
+            "seccion": "empuje",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "fondos-banco"
+          },
+          {
+            "orden": 4,
+            "nombre": "Extensiones de triceps",
+            "seccion": "empuje",
+            "series": 2,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "triceps-mancuernas"
+          },
+          {
+            "orden": 5,
+            "nombre": "Remo con mancuernas",
+            "seccion": "tiron",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-mancuerna"
+          },
+          {
+            "orden": 6,
+            "nombre": "Peso muerto con mancuernas",
+            "seccion": "tiron",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "peso-muerto-mancuernas"
+          },
+          {
+            "orden": 7,
+            "nombre": "Curl de biceps",
+            "seccion": "tiron",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-mancuernas"
+          },
+          {
+            "orden": 8,
+            "nombre": "Dominadas asistidas",
+            "seccion": "tiron",
+            "series": 3,
+            "repeticiones": "10",
+            "descanso": "1 min",
+            "ejercicioId": "dominadas-asistidas"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "EMPUJE-TIRON fila 4, col 2"
+  },
+  {
+    "id": "fuerza-empuje-tiron-intermedio",
+    "nombre": "Fuerza empuje/tirón",
+    "nivel": "intermedio",
+    "categoria": "fuerza_empuje_tiron",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio progresivo",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Press de banca",
+            "seccion": "empuje",
+            "series": 4,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "press-banca"
+          },
+          {
+            "orden": 2,
+            "nombre": "Press militar con barra",
+            "seccion": "empuje",
+            "series": 4,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "press-militar-barra"
+          },
+          {
+            "orden": 3,
+            "nombre": "Fondos en paralelas",
+            "seccion": "empuje",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "fondos-paralelas"
+          },
+          {
+            "orden": 4,
+            "nombre": "Extensiones de triceps en polea",
+            "seccion": "empuje",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "triceps-polea"
+          },
+          {
+            "orden": 5,
+            "nombre": "Remo con barra",
+            "seccion": "tiron",
+            "series": 4,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-barra"
+          },
+          {
+            "orden": 6,
+            "nombre": "Peso muerto rumano",
+            "seccion": "tiron",
+            "series": 4,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "peso-muerto-rumano"
+          },
+          {
+            "orden": 7,
+            "nombre": "Curl de biceps con barra",
+            "seccion": "tiron",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-barra"
+          },
+          {
+            "orden": 8,
+            "nombre": "Dominadas",
+            "seccion": "tiron",
+            "series": 4,
+            "repeticiones": "6",
+            "descanso": "1 min",
+            "ejercicioId": "dominadas"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "EMPUJE-TIRON fila 4, col 8"
+  },
+  {
+    "id": "fuerza-empuje-tiron-avanzado",
+    "nombre": "Fuerza empuje/tirón",
+    "nivel": "avanzado",
+    "categoria": "fuerza_empuje_tiron",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio intenso",
+        "duracion": "10 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Press de banca pesado",
+            "seccion": "empuje",
+            "series": 5,
+            "repeticiones": "6",
+            "descanso": "40 seg",
+            "ejercicioId": "press-banca"
+          },
+          {
+            "orden": 2,
+            "nombre": "Press militar con barra",
+            "seccion": "empuje",
+            "series": 5,
+            "repeticiones": "6",
+            "descanso": "40 seg",
+            "ejercicioId": "press-militar-barra"
+          },
+          {
+            "orden": 3,
+            "nombre": "Fondos en paralelas con peso",
+            "seccion": "empuje",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "fondos-paralelas"
+          },
+          {
+            "orden": 4,
+            "nombre": "Extensiones de triceps con cuerda",
+            "seccion": "empuje",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "triceps-cuerda"
+          },
+          {
+            "orden": 5,
+            "nombre": "Remo con barra T",
+            "seccion": "tiron",
+            "series": 5,
+            "repeticiones": "6",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-barra-t"
+          },
+          {
+            "orden": 6,
+            "nombre": "Peso muerto pesado",
+            "seccion": "tiron",
+            "series": 5,
+            "repeticiones": "6",
+            "descanso": "40 seg",
+            "ejercicioId": "peso-muerto"
+          },
+          {
+            "orden": 7,
+            "nombre": "Curl de biceps con barra Z",
+            "seccion": "tiron",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-barra-z"
+          },
+          {
+            "orden": 8,
+            "nombre": "Dominadas con peso",
+            "seccion": "tiron",
+            "series": 4,
+            "repeticiones": "6",
+            "descanso": "1 min",
+            "ejercicioId": "dominadas-con-peso"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos y foam rolling",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "EMPUJE-TIRON fila 22, col 2"
+  },
+  {
+    "id": "fuerza-empuje-tiron-avanzado-2",
+    "nombre": "Fuerza empuje/tirón",
+    "nivel": "avanzado",
+    "categoria": "fuerza_empuje_tiron",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio intenso",
+        "duracion": "10 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Press de banca con barra pesada s",
+            "seccion": "empuje",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "press-banca"
+          },
+          {
+            "orden": 2,
+            "nombre": "Press militar con barra pesada",
+            "seccion": "empuje",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "press-militar-barra"
+          },
+          {
+            "orden": 3,
+            "nombre": "Fondos en paralelas",
+            "seccion": "empuje",
+            "series": 5,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "fondos-paralelas"
+          },
+          {
+            "orden": 4,
+            "nombre": "Remo con barra T",
+            "seccion": "tiron",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-barra-t"
+          },
+          {
+            "orden": 5,
+            "nombre": "Peso muerto",
+            "seccion": "tiron",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "peso-muerto"
+          },
+          {
+            "orden": 6,
+            "nombre": "Curl de biceps",
+            "seccion": "tiron",
+            "series": 5,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-mancuernas"
+          },
+          {
+            "orden": 7,
+            "nombre": "Sentadillas pesadas",
+            "seccion": "piernas",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": "5 min",
+            "ejercicioId": "sentadilla-barra"
+          },
+          {
+            "orden": 8,
+            "nombre": "Prensa de piernas pesada",
+            "seccion": "piernas",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": null,
+            "ejercicioId": "prensa"
+          },
+          {
+            "orden": 9,
+            "nombre": "Elevaciones de talones en maquina",
+            "seccion": "piernas",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": null,
+            "ejercicioId": "gemelos-pie"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Foam Rolling",
+        "duracion": null
+      }
+    ],
+    "origen": "EMPUJE-TIRON fila 22, col 8"
+  },
+  {
+    "id": "gluteos-y-piernas-principiante",
+    "nombre": "Gluteos y piernas",
+    "nivel": "principiante",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio ligero",
+        "duracion": "10 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Hip thrust",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "hip-thrust"
+          },
+          {
+            "orden": 2,
+            "nombre": "Sentadillas Sumo",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "sentadilla-sumo"
+          },
+          {
+            "orden": 3,
+            "nombre": "Peso muerto",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "peso-muerto"
+          },
+          {
+            "orden": 4,
+            "nombre": "Puente de gluteos con peso",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "puente-gluteos-barra"
+          },
+          {
+            "orden": 5,
+            "nombre": "Abduccion de cadera en maquina",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "abduccion-cadera"
+          },
+          {
+            "orden": 6,
+            "nombre": "Curl de piernas",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-piernas"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos mucho despues",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 2, col 1"
+  },
+  {
+    "id": "hombro-y-brazos-principiante",
+    "nombre": "Hombro y brazos",
+    "nivel": "principiante",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Estiramientos dinamicos",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Curl de biceps con mancuernas",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-mancuernas"
+          },
+          {
+            "orden": 2,
+            "nombre": "Extensiones de triceps en polea",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "triceps-polea"
+          },
+          {
+            "orden": 3,
+            "nombre": "Press militar con mancuernas",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "press-militar-mancuernas"
+          },
+          {
+            "orden": 4,
+            "nombre": "Elevaciones laterales",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "elevaciones-laterales"
+          },
+          {
+            "orden": 5,
+            "nombre": "Curl concentrado",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-concentrado"
+          },
+          {
+            "orden": 6,
+            "nombre": "Fondos en banco",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "fondos-banco"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 2, col 6"
+  },
+  {
+    "id": "gluteos-principiante",
+    "nombre": "Gluteos",
+    "nivel": "principiante",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio ligero",
+        "duracion": "10 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Hip thrust",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "hip-thrust"
+          },
+          {
+            "orden": 2,
+            "nombre": "Sentadillas Sumo",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "sentadilla-sumo"
+          },
+          {
+            "orden": 3,
+            "nombre": "Elevacion de talones",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "gemelos-pie"
+          },
+          {
+            "orden": 4,
+            "nombre": "Puente de gluteos con peso",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "puente-gluteos-barra"
+          },
+          {
+            "orden": 5,
+            "nombre": "Abduccion de cadera en maquina",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "abduccion-cadera"
+          },
+          {
+            "orden": 6,
+            "nombre": "[COMPLETAR NOMBRE]",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "revisar": true,
+            "ejercicioId": null
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos mucho despues",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 20, col 1"
+  },
+  {
+    "id": "espalda-principiante",
+    "nombre": "Espalda",
+    "nivel": "principiante",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio ligero",
+        "duracion": "10 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Pull-ups",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "dominadas"
+          },
+          {
+            "orden": 2,
+            "nombre": "Remo con mancuernas",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-mancuerna"
+          },
+          {
+            "orden": 3,
+            "nombre": "Jalones con agarre ancho",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "jalon-pecho"
+          },
+          {
+            "orden": 4,
+            "nombre": "Remo en maquina",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-maquina"
+          },
+          {
+            "orden": 5,
+            "nombre": "Pullover con mancuernas",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "pullover"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos mucho despues",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 20, col 6"
+  },
+  {
+    "id": "pecho-principiante",
+    "nombre": "Pecho",
+    "nivel": "principiante",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio ligero",
+        "duracion": "10 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Press banca con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "press-banca"
+          },
+          {
+            "orden": 2,
+            "nombre": "Aperturas en banco inclinado",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "aperturas-inclinado"
+          },
+          {
+            "orden": 3,
+            "nombre": "Press en maquina",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "press-maquina"
+          },
+          {
+            "orden": 4,
+            "nombre": "Fondos en paralelas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "fondos-paralelas"
+          },
+          {
+            "orden": 5,
+            "nombre": "Cruces en polea",
+            "seccion": "complementario",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "cruces-polea"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos mucho despues",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 38, col 1"
+  },
+  {
+    "id": "cuadriceps-principiante",
+    "nombre": "Cuadriceps",
+    "nivel": "principiante",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio ligero",
+        "duracion": "10 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Sentadillas con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "sentadilla-barra"
+          },
+          {
+            "orden": 2,
+            "nombre": "Prensa de piernas",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "prensa"
+          },
+          {
+            "orden": 3,
+            "nombre": "Extensiones de piernas",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "20",
+            "descanso": "40 seg",
+            "ejercicioId": "extension-piernas"
+          },
+          {
+            "orden": 4,
+            "nombre": "Zancadas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "zancadas"
+          },
+          {
+            "orden": 5,
+            "nombre": "Elevaciones de talones en maquina",
+            "seccion": "complementario",
+            "series": 4,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "gemelos-pie"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos mucho despues",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 38, col 6"
+  },
+  {
+    "id": "femorales-principiante",
+    "nombre": "Femorales",
+    "nivel": "principiante",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Caminata ligera o bici",
+        "duracion": "10 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Peso muerto rumano",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "peso-muerto-rumano"
+          },
+          {
+            "orden": 2,
+            "nombre": "Curl de piernas en maquina",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-piernas"
+          },
+          {
+            "orden": 3,
+            "nombre": "Elevaciones de talones en maquina",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "20",
+            "descanso": "40 seg",
+            "ejercicioId": "gemelos-pie"
+          },
+          {
+            "orden": 4,
+            "nombre": "Puente de gluteo con barra",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "puente-gluteos-barra"
+          },
+          {
+            "orden": 5,
+            "nombre": "Estiramiento de isquios",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "estiramiento-isquios"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos mucho despues",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 56, col 1"
+  },
+  {
+    "id": "hombros-principiante",
+    "nombre": "Hombros",
+    "nivel": "principiante",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Caminata ligera o bici",
+        "duracion": "10 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Press militar con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "press-militar-barra"
+          },
+          {
+            "orden": 2,
+            "nombre": "Elevaciones laterales",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "elevaciones-laterales"
+          },
+          {
+            "orden": 3,
+            "nombre": "Elevaciones frontales",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "elevaciones-frontales"
+          },
+          {
+            "orden": 4,
+            "nombre": "Pajaros con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "pajaros"
+          },
+          {
+            "orden": 5,
+            "nombre": "Face pulls",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "face-pull"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [],
+    "origen": "GRUPOS MUSCULARES fila 56, col 6"
+  },
+  {
+    "id": "biceps-principiante",
+    "nombre": "Biceps",
+    "nivel": "principiante",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Caminata ligera o bici",
+        "duracion": "10 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Curl de biceps con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-barra"
+          },
+          {
+            "orden": 2,
+            "nombre": "Curl de biceps en banco",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-banco"
+          },
+          {
+            "orden": 3,
+            "nombre": "Curl de biceps en banco inclinado",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "revisar": true,
+            "ejercicioId": "curl-inclinado"
+          },
+          {
+            "orden": 4,
+            "nombre": "Curl concentrado",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-concentrado"
+          },
+          {
+            "orden": 5,
+            "nombre": "Curl inverso",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-inverso"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos biceps",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 73, col 1"
+  },
+  {
+    "id": "triceps-principiante",
+    "nombre": "Triceps",
+    "nivel": "principiante",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Caminata ligera o bici",
+        "duracion": "10 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Extensiones de tri en polea",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "triceps-polea"
+          },
+          {
+            "orden": 2,
+            "nombre": "Fondos en paralelas",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "fondos-paralelas"
+          },
+          {
+            "orden": 3,
+            "nombre": "Extensiones de tri con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "triceps-mancuernas"
+          },
+          {
+            "orden": 4,
+            "nombre": "Extensiones con barra z",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "triceps-barra-z"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "?",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 73, col 6"
+  },
+  {
+    "id": "gluteos-principiante-2",
+    "nombre": "Gluteos",
+    "nivel": "principiante",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Caminata ligera o bici",
+        "duracion": "10 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Sentadilla con peso corporal",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "sentadilla-peso-corporal"
+          },
+          {
+            "orden": 2,
+            "nombre": "Puente de gluteos",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "puente-gluteos"
+          },
+          {
+            "orden": 3,
+            "nombre": "Zancadas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "zancadas"
+          },
+          {
+            "orden": 4,
+            "nombre": "Elevacion de cadera",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": null,
+            "ejercicioId": "elevacion-cadera"
+          },
+          {
+            "orden": 5,
+            "nombre": "Patada de gluteos",
+            "seccion": "complementario",
+            "series": 2,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "patada-gluteos"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "?",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 89, col 1"
+  },
+  {
+    "id": "gluteos-intermedio",
+    "nombre": "Gluteos",
+    "nivel": "intermedio",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Caminata rapida",
+        "duracion": "10 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Sentadilla con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "sentadilla-barra"
+          },
+          {
+            "orden": 2,
+            "nombre": "Puente de gluteos con peso",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "puente-gluteos-barra"
+          },
+          {
+            "orden": 3,
+            "nombre": "Zancadas con mancuernas",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "zancadas"
+          },
+          {
+            "orden": 4,
+            "nombre": "Elevacion de cadera con peso",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": null,
+            "ejercicioId": "elevacion-cadera"
+          },
+          {
+            "orden": 5,
+            "nombre": "Patada de gluteos con mancuernas",
+            "seccion": "complementario",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "patada-gluteos"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 89, col 6"
+  },
+  {
+    "id": "gluteos-avanzado",
+    "nombre": "Gluteos",
+    "nivel": "avanzado",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Caminata rapida",
+        "duracion": "10 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Sentadilla pesadas",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "sentadilla-barra"
+          },
+          {
+            "orden": 2,
+            "nombre": "Puente de gluteos con barra pesada",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "puente-gluteos-barra"
+          },
+          {
+            "orden": 3,
+            "nombre": "Zancadas con barra",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "zancadas-barra"
+          },
+          {
+            "orden": 4,
+            "nombre": "Elevacion de cadera con peso",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "10",
+            "descanso": null,
+            "ejercicioId": "elevacion-cadera"
+          },
+          {
+            "orden": 5,
+            "nombre": "Patada de gluteos con mancuernas pesadas",
+            "seccion": "complementario",
+            "series": 4,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "patada-gluteos"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 89, col 11"
+  },
+  {
+    "id": "espalda-principiante-2",
+    "nombre": "Espalda",
+    "nivel": "principiante",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio ligero",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Remo con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-mancuerna"
+          },
+          {
+            "orden": 2,
+            "nombre": "Jalon al pecho",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "jalon-pecho"
+          },
+          {
+            "orden": 3,
+            "nombre": "Peso muerto con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "peso-muerto-mancuernas"
+          },
+          {
+            "orden": 4,
+            "nombre": "Remo en maquina",
+            "seccion": "complementario",
+            "series": 2,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-maquina"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos de espalda",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 105, col 1"
+  },
+  {
+    "id": "espalda-intermedio",
+    "nombre": "Espalda",
+    "nivel": "intermedio",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio moderado",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Remo con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-barra"
+          },
+          {
+            "orden": 2,
+            "nombre": "Jalon al pecho con agarre amplio",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "jalon-pecho"
+          },
+          {
+            "orden": 3,
+            "nombre": "Peso muerto barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "peso-muerto"
+          },
+          {
+            "orden": 4,
+            "nombre": "Remo en maquina",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-maquina"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos de espalda",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 105, col 6"
+  },
+  {
+    "id": "espalda-avanzado",
+    "nombre": "Espalda",
+    "nivel": "avanzado",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio intenso",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Remo con barra pesada",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-barra"
+          },
+          {
+            "orden": 2,
+            "nombre": "Jalon al pecho con peso",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "jalon-pecho"
+          },
+          {
+            "orden": 3,
+            "nombre": "Peso muerto pesado",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "peso-muerto"
+          },
+          {
+            "orden": 4,
+            "nombre": "Remo en maquina pesada",
+            "seccion": "complementario",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-maquina"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos y foam rolling",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 105, col 11"
+  },
+  {
+    "id": "pecho-principiante-2",
+    "nombre": "Pecho",
+    "nivel": "principiante",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio ligero",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Press banca con mancuerna",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "press-banca-mancuernas"
+          },
+          {
+            "orden": 2,
+            "nombre": "Aperturas con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "aperturas"
+          },
+          {
+            "orden": 3,
+            "nombre": "Flexiones",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "flexiones"
+          },
+          {
+            "orden": 4,
+            "nombre": "Press inclinado con mancuernas",
+            "seccion": "complementario",
+            "series": 2,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "press-inclinado-mancuernas"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 121, col 1"
+  },
+  {
+    "id": "pecho-intermedio",
+    "nombre": "Pecho",
+    "nivel": "intermedio",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio moderado",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Press banca con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "press-banca"
+          },
+          {
+            "orden": 2,
+            "nombre": "Aperturas con mancuernas",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "aperturas"
+          },
+          {
+            "orden": 3,
+            "nombre": "Flexiones",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "flexiones"
+          },
+          {
+            "orden": 4,
+            "nombre": "Press inclinado",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": null,
+            "ejercicioId": "press-inclinado-mancuernas"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 121, col 6"
+  },
+  {
+    "id": "pecho-avanzado",
+    "nombre": "Pecho",
+    "nivel": "avanzado",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio intenso",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Press con barra pesada",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "press-banca"
+          },
+          {
+            "orden": 2,
+            "nombre": "Aperturas con mancuernas",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "aperturas"
+          },
+          {
+            "orden": 3,
+            "nombre": "Flexiones con peso",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "flexiones"
+          },
+          {
+            "orden": 4,
+            "nombre": "Press inclinado con barra pesada",
+            "seccion": "complementario",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "press-inclinado-barra"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos y foam rolling",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 121, col 11"
+  },
+  {
+    "id": "cuadriceps-principiante-2",
+    "nombre": "Cuadriceps",
+    "nivel": "principiante",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Caminata rapida",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Sentadillas con peso corporal",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "sentadilla-peso-corporal"
+          },
+          {
+            "orden": 2,
+            "nombre": "Prensa de piernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "prensa"
+          },
+          {
+            "orden": 3,
+            "nombre": "Extensiones de piernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "extension-piernas"
+          },
+          {
+            "orden": 4,
+            "nombre": "Sentadillas sumo con mancuernas",
+            "seccion": "complementario",
+            "series": 2,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "sentadilla-sumo"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 137, col 1"
+  },
+  {
+    "id": "cuadriceps-intermedio",
+    "nombre": "Cuadriceps",
+    "nivel": "intermedio",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio moderado",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Sentadillas con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "sentadilla-barra"
+          },
+          {
+            "orden": 2,
+            "nombre": "Prensa",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "prensa"
+          },
+          {
+            "orden": 3,
+            "nombre": "Extensiones de piernas",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "extension-piernas"
+          },
+          {
+            "orden": 4,
+            "nombre": "Sentadillas sumo con barra",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": null,
+            "ejercicioId": "sentadilla-sumo"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 137, col 6"
+  },
+  {
+    "id": "cuadriceps-avanzado",
+    "nombre": "Cuadriceps",
+    "nivel": "avanzado",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Caminata rapida o ligera",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Sentadillas pesadas",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "sentadilla-barra"
+          },
+          {
+            "orden": 2,
+            "nombre": "Prensa de piernas pesada",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "prensa"
+          },
+          {
+            "orden": 3,
+            "nombre": "Extensiones de piernas con peso",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "extension-piernas"
+          },
+          {
+            "orden": 4,
+            "nombre": "Sentadillas sumo con barra pesada",
+            "seccion": "complementario",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "sentadilla-sumo"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos y foam rolling",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 137, col 11"
+  },
+  {
+    "id": "femorales-principiante-2",
+    "nombre": "Femorales",
+    "nivel": "principiante",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Caminata rapida",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Peso muerto con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "peso-muerto-mancuernas"
+          },
+          {
+            "orden": 2,
+            "nombre": "Curl de piernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-piernas"
+          },
+          {
+            "orden": 3,
+            "nombre": "Puente de gluteos con peso",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "puente-gluteos-barra"
+          },
+          {
+            "orden": 4,
+            "nombre": "Peso muerto rumano con mancuernas",
+            "seccion": "complementario",
+            "series": 2,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "peso-muerto-rumano"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramiento de isquiotibiales",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 153, col 1"
+  },
+  {
+    "id": "femorales-intermedio",
+    "nombre": "Femorales",
+    "nivel": "intermedio",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio moderado",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Peso muerto con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "peso-muerto"
+          },
+          {
+            "orden": 2,
+            "nombre": "Curl de piernas en maquinas",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-piernas"
+          },
+          {
+            "orden": 3,
+            "nombre": "Puente de gluteos con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "puente-gluteos-barra"
+          },
+          {
+            "orden": 4,
+            "nombre": "Peso muerto rumano con barra",
+            "seccion": "complementario",
+            "series": 2,
+            "repeticiones": "12",
+            "descanso": null,
+            "ejercicioId": "peso-muerto-rumano"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 153, col 6"
+  },
+  {
+    "id": "femorales-avanzado",
+    "nombre": "Femorales",
+    "nivel": "avanzado",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Caminata rapida o ligera",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Peso muerto pesado",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "peso-muerto"
+          },
+          {
+            "orden": 2,
+            "nombre": "Curl de piernas con peso",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-piernas"
+          },
+          {
+            "orden": 3,
+            "nombre": "Puente de gluteos con barra pesada",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "puente-gluteos-barra"
+          },
+          {
+            "orden": 4,
+            "nombre": "Peso muerto rumano con barra pesada",
+            "seccion": "complementario",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "peso-muerto-rumano"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos y foam rolling",
+        "duracion": "10 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 153, col 11"
+  },
+  {
+    "id": "hombros-principiante-2",
+    "nombre": "Hombros",
+    "nivel": "principiante",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Caminata rapida",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Press militar con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "press-militar-mancuernas"
+          },
+          {
+            "orden": 2,
+            "nombre": "Elevaciones laterales",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "elevaciones-laterales"
+          },
+          {
+            "orden": 3,
+            "nombre": "Elevaciones frontales",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "elevaciones-frontales"
+          },
+          {
+            "orden": 4,
+            "nombre": "Remo al menton con mancuernas",
+            "seccion": "complementario",
+            "series": 2,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "remo-al-menton-mancuernas"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramiento de isquiotibiales",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 169, col 1"
+  },
+  {
+    "id": "hombros-intermedio",
+    "nombre": "Hombros",
+    "nivel": "intermedio",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio moderado",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Press militar con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "press-militar-barra"
+          },
+          {
+            "orden": 2,
+            "nombre": "Elevaciones laterales",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "elevaciones-laterales"
+          },
+          {
+            "orden": 3,
+            "nombre": "Elevaciones frontales",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "elevaciones-frontales"
+          },
+          {
+            "orden": 4,
+            "nombre": "Remo al menton con barra",
+            "seccion": "complementario",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": null,
+            "ejercicioId": "remo-al-menton"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 169, col 6"
+  },
+  {
+    "id": "hombros-avanzado",
+    "nombre": "Hombros",
+    "nivel": "avanzado",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio intenso",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Press militar con barra pesada",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "8",
+            "descanso": "40 seg",
+            "ejercicioId": "press-militar-barra"
+          },
+          {
+            "orden": 2,
+            "nombre": "Elevaciones laterales pesado",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "elevaciones-laterales"
+          },
+          {
+            "orden": 3,
+            "nombre": "Elevaciones frontales pesado",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "elevaciones-frontales"
+          },
+          {
+            "orden": 4,
+            "nombre": "Peso muerto rumano con barra pesada",
+            "seccion": "complementario",
+            "series": 4,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "peso-muerto-rumano"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos y foam rolling",
+        "duracion": "10 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 169, col 11"
+  },
+  {
+    "id": "biceps-principiante-2",
+    "nombre": "Biceps",
+    "nivel": "principiante",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio ligero",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Curl de biceps con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-mancuernas"
+          },
+          {
+            "orden": 2,
+            "nombre": "Curl de biceps en banco inclinado",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-inclinado"
+          },
+          {
+            "orden": 3,
+            "nombre": "Curl de biceps concentrado",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-concentrado"
+          },
+          {
+            "orden": 4,
+            "nombre": "Curl de biceps en maquina",
+            "seccion": "complementario",
+            "series": 2,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-maquina"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramiento de isquiotibiales",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 185, col 1"
+  },
+  {
+    "id": "biceps-intermedio",
+    "nombre": "Biceps",
+    "nivel": "intermedio",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio moderado",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Curl de biceps con barra",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-barra"
+          },
+          {
+            "orden": 2,
+            "nombre": "Curl de biceps con mancuerna en banco inclinado",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-inclinado"
+          },
+          {
+            "orden": 3,
+            "nombre": "Curl de biceps concentrado",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-concentrado"
+          },
+          {
+            "orden": 4,
+            "nombre": "Curl de biceps en maquina",
+            "seccion": "complementario",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": null,
+            "ejercicioId": "curl-maquina"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 185, col 6"
+  },
+  {
+    "id": "biceps-avanzado",
+    "nombre": "Biceps",
+    "nivel": "avanzado",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio intenso",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Curl de biceps con barra pesada",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-barra"
+          },
+          {
+            "orden": 2,
+            "nombre": "Curl de biceps con mancuernas en b. inclinado",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-inclinado"
+          },
+          {
+            "orden": 3,
+            "nombre": "Curl de biceps concentrado pesado",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-concentrado"
+          },
+          {
+            "orden": 4,
+            "nombre": "Curl de biceps en maquina pesada",
+            "seccion": "complementario",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "curl-maquina"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos y foam rolling",
+        "duracion": "10 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 185, col 11"
+  },
+  {
+    "id": "triceps-principiante-2",
+    "nombre": "Triceps",
+    "nivel": "principiante",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio ligero",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Extensiones de triceps con mancuernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "triceps-mancuernas"
+          },
+          {
+            "orden": 2,
+            "nombre": "Fondos en banco",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "fondos-banco"
+          },
+          {
+            "orden": 3,
+            "nombre": "Extensiones de triceps en polea alta",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "triceps-polea"
+          },
+          {
+            "orden": 4,
+            "nombre": "Patada de triceps",
+            "seccion": "complementario",
+            "series": 2,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "patada-triceps"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 201, col 1"
+  },
+  {
+    "id": "triceps-intermedio",
+    "nombre": "Triceps",
+    "nivel": "intermedio",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio moderado",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Extensiones de triceps en polea alta",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "triceps-polea"
+          },
+          {
+            "orden": 2,
+            "nombre": "Fondos en paralelas",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "fondos-paralelas"
+          },
+          {
+            "orden": 3,
+            "nombre": "Extensiones de triceps con barra Z",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "triceps-barra-z"
+          },
+          {
+            "orden": 4,
+            "nombre": "Patada de triceps con mancuernas",
+            "seccion": "complementario",
+            "series": 3,
+            "repeticiones": "12",
+            "descanso": null,
+            "ejercicioId": "patada-triceps"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 201, col 6"
+  },
+  {
+    "id": "triceps-avanzado",
+    "nombre": "Triceps",
+    "nivel": "avanzado",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio intenso",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Extensiones de triceps en polea alta con peso",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "triceps-polea"
+          },
+          {
+            "orden": 2,
+            "nombre": "Fondos en paralelas con peso",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "fondos-paralelas"
+          },
+          {
+            "orden": 3,
+            "nombre": "Extensiones de triceps con barra z pesada",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "triceps-barra-z"
+          },
+          {
+            "orden": 4,
+            "nombre": "Patada de triceps con mancuernas pesadas",
+            "seccion": "complementario",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "patada-triceps"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos y foam rolling",
+        "duracion": "10 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 201, col 11"
+  },
+  {
+    "id": "core-principiante",
+    "nombre": "Core",
+    "nivel": "principiante",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Estiramientos dinamicos",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Planchas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "plancha"
+          },
+          {
+            "orden": 2,
+            "nombre": "Crunches",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "20",
+            "descanso": "40 seg",
+            "ejercicioId": "crunch"
+          },
+          {
+            "orden": 3,
+            "nombre": "Elevaciones de piernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "elevacion-piernas"
+          },
+          {
+            "orden": 4,
+            "nombre": "Ejercicios de estiramientos de core",
+            "seccion": "complementario",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "estiramiento-core"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos y foam rolling",
+        "duracion": "10 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 217, col 1"
+  },
+  {
+    "id": "core-estabilidad-con-balon-principiante",
+    "nombre": "CORE - estabilidad con balon",
+    "nivel": "principiante",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Cardio moderado",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Plancha con balon de estabilidad",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "45 seg",
+            "descanso": "40 seg",
+            "ejercicioId": "plancha-balon"
+          },
+          {
+            "orden": 2,
+            "nombre": "Crunches en balon de estabilidad",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "20",
+            "descanso": "40 seg",
+            "ejercicioId": "crunch-balon"
+          },
+          {
+            "orden": 3,
+            "nombre": "V-ups",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "v-ups"
+          },
+          {
+            "orden": 4,
+            "nombre": "Estiramientos de core",
+            "seccion": "complementario",
+            "series": null,
+            "repeticiones": "10 min",
+            "descanso": null,
+            "ejercicioId": "estiramiento-core"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Relajacion",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 217, col 6"
+  },
+  {
+    "id": "core-abdominales-basicos-principiante",
+    "nombre": "Core - abdominales basicos",
+    "nivel": "principiante",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Estiramientos dinamicos",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Planchas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "1 min",
+            "descanso": "40 seg",
+            "ejercicioId": "plancha"
+          },
+          {
+            "orden": 2,
+            "nombre": "Crunches",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "20",
+            "descanso": "40 seg",
+            "ejercicioId": "crunch"
+          },
+          {
+            "orden": 3,
+            "nombre": "Elevaciones de piernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "elevacion-piernas"
+          },
+          {
+            "orden": 4,
+            "nombre": "Ejercicios de estiramientos de core",
+            "seccion": "complementario",
+            "series": null,
+            "repeticiones": "10 min",
+            "descanso": "40 seg",
+            "ejercicioId": "estiramiento-core"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Relajacion y respiracion",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 217, col 11"
+  },
+  {
+    "id": "core-avanzado",
+    "nombre": "Core",
+    "nivel": "avanzado",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Estiramientos dinamicos",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Planchas Lateral",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "1 min",
+            "descanso": "40 seg",
+            "ejercicioId": "plancha-lateral"
+          },
+          {
+            "orden": 2,
+            "nombre": "Bicicletas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "20",
+            "descanso": "40 seg",
+            "ejercicioId": "bicicleta"
+          },
+          {
+            "orden": 3,
+            "nombre": "V-ups",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "v-ups"
+          },
+          {
+            "orden": 4,
+            "nombre": "Ejercicios de estiramientos de core",
+            "seccion": "complementario",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "estiramiento-core"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Estiramientos y foam rolling",
+        "duracion": "10 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 233, col 1"
+  },
+  {
+    "id": "core-estabilidad-principiante",
+    "nombre": "CORE - estabilidad",
+    "nivel": "principiante",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Movilidad y estiramientos",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Abdominales con rueda",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "45 seg",
+            "descanso": "40 seg",
+            "ejercicioId": "rueda"
+          },
+          {
+            "orden": 2,
+            "nombre": "Planchas con toques a los hombros",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "20",
+            "descanso": "40 seg",
+            "ejercicioId": "plancha-toques-hombro"
+          },
+          {
+            "orden": 3,
+            "nombre": "Estiramientos de core",
+            "seccion": "complementario",
+            "series": null,
+            "repeticiones": "10 min",
+            "descanso": null,
+            "ejercicioId": "estiramiento-core"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Relajacion",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 233, col 6"
+  },
+  {
+    "id": "core-abdominales-basicos-principiante-2",
+    "nombre": "Core - abdominales basicos",
+    "nivel": "principiante",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Caminata rapida",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Crunches",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "crunch"
+          },
+          {
+            "orden": 2,
+            "nombre": "Plank",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "1 min",
+            "descanso": "40 seg",
+            "ejercicioId": "plancha"
+          },
+          {
+            "orden": 3,
+            "nombre": "Elevaciones de piernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "elevacion-piernas"
+          },
+          {
+            "orden": 4,
+            "nombre": "Ejercicios de estiramientos de core",
+            "seccion": "complementario",
+            "series": null,
+            "repeticiones": "10 min",
+            "descanso": "40 seg",
+            "ejercicioId": "estiramiento-core"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Relajacion y respiracion",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 233, col 11"
+  },
+  {
+    "id": "core-intermedio",
+    "nombre": "Core",
+    "nivel": "intermedio",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Trote ligero",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Crunches",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "20",
+            "descanso": "40 seg",
+            "ejercicioId": "crunch"
+          },
+          {
+            "orden": 2,
+            "nombre": "Plank",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "30 seg",
+            "descanso": "40 seg",
+            "ejercicioId": "plancha"
+          },
+          {
+            "orden": 3,
+            "nombre": "Elevaciones de piernas",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "20",
+            "descanso": "40 seg",
+            "ejercicioId": "elevacion-piernas"
+          },
+          {
+            "orden": 4,
+            "nombre": "Russian twists",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "20",
+            "descanso": "40 seg",
+            "ejercicioId": "russian-twist"
+          },
+          {
+            "orden": 5,
+            "nombre": "Ejercicios de estiramientos de core",
+            "seccion": "complementario",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "estiramiento-core"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Trote ligero y estiramientos",
+        "duracion": "10 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 249, col 1"
+  },
+  {
+    "id": "core-estabilidad-avanzado",
+    "nombre": "CORE - estabilidad",
+    "nivel": "avanzado",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Trote ligero",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Crunches",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "25",
+            "descanso": "40 seg",
+            "ejercicioId": "crunch"
+          },
+          {
+            "orden": 2,
+            "nombre": "Plank",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "40 seg",
+            "descanso": "40 seg",
+            "ejercicioId": "plancha"
+          },
+          {
+            "orden": 3,
+            "nombre": "Elevaciones de piernas",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "25",
+            "descanso": null,
+            "ejercicioId": "elevacion-piernas"
+          },
+          {
+            "orden": 4,
+            "nombre": "Russian Twist",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "20",
+            "descanso": null,
+            "ejercicioId": "russian-twist"
+          },
+          {
+            "orden": 5,
+            "nombre": "Bicycle crunches",
+            "seccion": "complementario",
+            "series": 5,
+            "repeticiones": "20",
+            "descanso": null,
+            "ejercicioId": "bicicleta"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Trote ligero y estiramientos",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 249, col 6"
+  },
+  {
+    "id": "core-variantes-de-plancha-principiante",
+    "nombre": "Core - variantes de plancha",
+    "nivel": "principiante",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Caminata rapida",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Plank tradicional",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "20 seg",
+            "descanso": "40 seg",
+            "ejercicioId": "plancha"
+          },
+          {
+            "orden": 2,
+            "nombre": "Plank con elevacion de pierna",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "10 seg",
+            "descanso": "40 seg",
+            "ejercicioId": "plancha-elevacion-pierna"
+          },
+          {
+            "orden": 3,
+            "nombre": "Plank lateral",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15 seg",
+            "descanso": "40 seg",
+            "ejercicioId": "plancha-lateral"
+          },
+          {
+            "orden": 4,
+            "nombre": "Ejercicios de estiramientos de core",
+            "seccion": "complementario",
+            "series": null,
+            "repeticiones": "10 min",
+            "descanso": "40 seg",
+            "revisar": true,
+            "ejercicioId": "estiramiento-core"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Relajacion y respiracion",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 249, col 11"
+  },
+  {
+    "id": "core-variante-de-plancha-intermedio",
+    "nombre": "Core- variante de plancha",
+    "nivel": "intermedio",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Trote ligero",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Plank tradicional",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "30 seg",
+            "descanso": "40 seg",
+            "ejercicioId": "plancha"
+          },
+          {
+            "orden": 2,
+            "nombre": "Plank con elevacion de piernas",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "20 seg",
+            "descanso": "40 seg",
+            "ejercicioId": "plancha-elevacion-pierna"
+          },
+          {
+            "orden": 3,
+            "nombre": "Plank lateral",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "20 seg",
+            "descanso": "40 seg",
+            "ejercicioId": "plancha-lateral"
+          },
+          {
+            "orden": 4,
+            "nombre": "Plank con codo a rodilla",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "20 seg",
+            "descanso": "40 seg",
+            "ejercicioId": "plancha-codo-rodilla"
+          },
+          {
+            "orden": 5,
+            "nombre": "Ejercicios de estiramientos de core",
+            "seccion": "complementario",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "estiramiento-core"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Trote ligero y estiramientos",
+        "duracion": "10 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 265, col 1"
+  },
+  {
+    "id": "core-variantes-de-plancha-avanzado",
+    "nombre": "Core - variantes de plancha",
+    "nivel": "avanzado",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Trote ligero",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Plank tradicional",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "40 seg",
+            "descanso": "40 seg",
+            "ejercicioId": "plancha"
+          },
+          {
+            "orden": 2,
+            "nombre": "Plank con elevación de pierna",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "30 seg",
+            "descanso": "40 seg",
+            "ejercicioId": "plancha-elevacion-pierna"
+          },
+          {
+            "orden": 3,
+            "nombre": "Plank lateral",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "30 seg",
+            "descanso": null,
+            "ejercicioId": "plancha-lateral"
+          },
+          {
+            "orden": 4,
+            "nombre": "Plank con codo a la rodilla",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "30 seg",
+            "descanso": null,
+            "ejercicioId": "plancha-codo-rodilla"
+          },
+          {
+            "orden": 5,
+            "nombre": "Plank con rotación de tronco",
+            "seccion": "complementario",
+            "series": 5,
+            "repeticiones": "20 seg",
+            "descanso": null,
+            "ejercicioId": "plancha-rotacion"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Trote ligero y estiramientos",
+        "duracion": "10 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 265, col 6"
+  },
+  {
+    "id": "core-oblicuos-principiante",
+    "nombre": "Core - oblicuos",
+    "nivel": "principiante",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Caminata rapida",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Crunches oblicuos",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "crunch-oblicuo"
+          },
+          {
+            "orden": 2,
+            "nombre": "Plank lateral",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "20 seg",
+            "descanso": "40 seg",
+            "ejercicioId": "plancha-lateral"
+          },
+          {
+            "orden": 3,
+            "nombre": "Elevaciones de piernas con giro",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "elevacion-piernas-giro"
+          },
+          {
+            "orden": 4,
+            "nombre": "Ejercicios de estiramientos de core",
+            "seccion": "complementario",
+            "series": null,
+            "repeticiones": "10 min",
+            "descanso": "40 seg",
+            "revisar": true,
+            "ejercicioId": "estiramiento-core"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Relajacion y respiracion",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 265, col 11"
+  },
+  {
+    "id": "core-oblicuos-intermedio",
+    "nombre": "Core- oblicuos",
+    "nivel": "intermedio",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Trote ligero",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Crunches oblicuos",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "20 seg",
+            "descanso": "40 seg",
+            "ejercicioId": "crunch-oblicuo"
+          },
+          {
+            "orden": 2,
+            "nombre": "Plank lateral",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "30 seg",
+            "descanso": "40 seg",
+            "ejercicioId": "plancha-lateral"
+          },
+          {
+            "orden": 3,
+            "nombre": "Elevaciones de piernas con giro",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "elevacion-piernas-giro"
+          },
+          {
+            "orden": 4,
+            "nombre": "Russian twists",
+            "seccion": "principal",
+            "series": 4,
+            "repeticiones": "20",
+            "descanso": "40 seg",
+            "ejercicioId": "russian-twist"
+          },
+          {
+            "orden": 5,
+            "nombre": "Ejercicios de estiramientos de core",
+            "seccion": "complementario",
+            "series": 4,
+            "repeticiones": "12",
+            "descanso": "40 seg",
+            "ejercicioId": "estiramiento-core"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Trote ligero y estiramientos",
+        "duracion": "10 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 281, col 1"
+  },
+  {
+    "id": "core-oblicuos-avanzado",
+    "nombre": "Core- oblicuos",
+    "nivel": "avanzado",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Trote ligero",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Crunches oblicuos",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "25",
+            "descanso": "40 seg",
+            "ejercicioId": "crunch-oblicuo"
+          },
+          {
+            "orden": 2,
+            "nombre": "Plank lateral",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "40 seg",
+            "descanso": "40 seg",
+            "ejercicioId": "plancha-lateral"
+          },
+          {
+            "orden": 3,
+            "nombre": "Elevaciones de piernas con giro",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "20",
+            "descanso": null,
+            "ejercicioId": "elevacion-piernas-giro"
+          },
+          {
+            "orden": 4,
+            "nombre": "Russian twist",
+            "seccion": "principal",
+            "series": 5,
+            "repeticiones": "25",
+            "descanso": null,
+            "ejercicioId": "russian-twist"
+          },
+          {
+            "orden": 5,
+            "nombre": "V-ups",
+            "seccion": "complementario",
+            "series": 5,
+            "repeticiones": "15",
+            "descanso": null,
+            "ejercicioId": "v-ups"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Trote ligero y estiramientos",
+        "duracion": "10 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 281, col 6"
+  },
+  {
+    "id": "core-zona-media-principiante",
+    "nombre": "Core- zona media",
+    "nivel": "principiante",
+    "categoria": "grupos_musculares",
+    "sexo": "unisex",
+    "calentamiento": [
+      {
+        "nombre": "Caminata rapida",
+        "duracion": "5 min"
+      }
+    ],
+    "dias": [
+      {
+        "nombre": "Día único",
+        "ejercicios": [
+          {
+            "orden": 1,
+            "nombre": "Crunches",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": "40 seg",
+            "ejercicioId": "crunch"
+          },
+          {
+            "orden": 2,
+            "nombre": "Plank tradicional",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "20 seg",
+            "descanso": "40 seg",
+            "ejercicioId": "plancha"
+          },
+          {
+            "orden": 3,
+            "nombre": "Elevaciones de piernas",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "10",
+            "descanso": "40 seg",
+            "ejercicioId": "elevacion-piernas"
+          },
+          {
+            "orden": 4,
+            "nombre": "Crunches oblicuos",
+            "seccion": "principal",
+            "series": 3,
+            "repeticiones": "15",
+            "descanso": null,
+            "ejercicioId": "crunch-oblicuo"
+          },
+          {
+            "orden": 5,
+            "nombre": "Ejercicios de estiramientos de core",
+            "seccion": "complementario",
+            "series": null,
+            "repeticiones": "10 min",
+            "descanso": "40 seg",
+            "revisar": true,
+            "ejercicioId": "estiramiento-core"
+          }
+        ]
+      }
+    ],
+    "enfriamiento": [
+      {
+        "nombre": "Relajacion y respiracion",
+        "duracion": "5 min"
+      }
+    ],
+    "origen": "GRUPOS MUSCULARES fila 281, col 11"
+  }
+]

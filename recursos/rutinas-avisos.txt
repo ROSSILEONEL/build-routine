@@ -1,0 +1,42 @@
+[FUERZA BASICO] fila 14, col 5: descanso '1' sin unidad; se asumió minutos
+[hyper principiantes] fila 8, col 3: typo corregido: 'manucernas' -> 'mancuernas'
+[hyper principiantes] fila 29, col 3: parentesis sin cerrar completado en 'fondos en paralelas(enfocado a pecho)'
+[hyper principiantes] fila 46, col 15: typo corregido: 'barraZ' -> 'barra Z'
+[hyper principiantes] fila 72, col 15: enfriamiento 'Estiramientos de piernas' dura '10 seg' (¿era minutos?)
+[hyper principiantes] fila 80, col 9: typo corregido: 'manuernas' -> 'mancuernas'
+[hyper principiantes] fila 123, col 3: typo corregido: 'Pesa muerto' -> 'Peso muerto'
+[hyper principiantes] fila 126, col 3: typo corregido: 'pesa corporal' -> 'peso corporal'
+[hyper intermedio] fila 4, col 9: BLOQUE DUPLICADO omitido: 'Hipertrofia inferior / superior' (intermedio) es idéntico al de hyper principiantes fila 4, col 9
+[hyper intermedio] fila 30, col 3: parentesis sin cerrar completado en 'fondos en paralelas(enfocado a pecho)'
+[hyper intermedio] fila 23, col 3: BLOQUE DUPLICADO omitido: 'Hipertrofia pectoral' (intermedio) es idéntico al de hyper principiantes fila 22, col 3
+[hyper intermedio] fila 23, col 9: BLOQUE DUPLICADO omitido: 'Hipertrofia espalda' (intermedio) es idéntico al de hyper principiantes fila 22, col 9
+[hyper intermedio] fila 41, col 3: BLOQUE DUPLICADO omitido: 'Hipertrofia tren inferior' (intermedio) es idéntico al de hyper principiantes fila 40, col 3
+[hyper intermedio] fila 41, col 9: BLOQUE DUPLICADO omitido: 'Hipertrofia hombros' (intermedio) es idéntico al de hyper principiantes fila 40, col 9
+[hyper intermedio] fila 47, col 15: typo corregido: 'barraZ' -> 'barra Z'
+[hyper intermedio] fila 41, col 15: encabezado dice 'RUTINA PRINCIPIANTES' pero la hoja es nivel intermedio
+[hyper intermedio] fila 41, col 15: BLOQUE DUPLICADO omitido: 'Hipertrofia brazos' (principiante) es idéntico al de hyper principiantes fila 40, col 15
+[hyper intermedio] fila 59, col 3: BLOQUE DUPLICADO omitido: 'Hipertrofia pectoral' (intermedio) es idéntico al de hyper principiantes fila 58, col 3
+[hyper intermedio] fila 93, col 9: enfriamiento 'Estiramientos de piernas' dura '10 seg' (¿era minutos?)
+[hyper avanzados] fila 4, col 15: BLOQUE DUPLICADO omitido: 'Hipertrofia brazos' (avanzado) es idéntico al de hyper intermedio fila 23, col 15
+[hyper avanzados] fila 22, col 9: encabezado dice 'RUTINA INTERMEDIO' pero la hoja es nivel avanzado
+[hyper avanzados] fila 22, col 9: BLOQUE DUPLICADO omitido: 'Hipertrofia espalda' (intermedio) es idéntico al de hyper principiantes fila 22, col 9
+[hyper avanzados] fila 41, col 3: encabezado dice 'RUTINA INTERMEDIO' pero la hoja es nivel avanzado
+[hyper avanzados] fila 41, col 3: BLOQUE DUPLICADO omitido: 'Hipertrofia tren inferior' (intermedio) es idéntico al de hyper principiantes fila 40, col 3
+[hyper avanzados] fila 41, col 9: encabezado dice 'RUTINA INTERMEDIO' pero la hoja es nivel avanzado
+[hyper avanzados] fila 41, col 9: BLOQUE DUPLICADO omitido: 'Hipertrofia hombros' (intermedio) es idéntico al de hyper principiantes fila 40, col 9
+[hyper avanzados] fila 47, col 15: typo corregido: 'barraZ' -> 'barra Z'
+[hyper avanzados] fila 41, col 15: encabezado dice 'RUTINA PRINCIPIANTES' pero la hoja es nivel avanzado
+[hyper avanzados] fila 41, col 15: BLOQUE DUPLICADO omitido: 'Hipertrofia brazos' (principiante) es idéntico al de hyper principiantes fila 40, col 15
+[hyper avanzados] fila 59, col 3: encabezado dice 'RUTINA INTERMEDIO' pero la hoja es nivel avanzado
+[hyper avanzados] fila 59, col 3: BLOQUE DUPLICADO omitido: 'Hipertrofia pectoral' (intermedio) es idéntico al de hyper principiantes fila 58, col 3
+[hyper avanzados] fila 73, col 9: enfriamiento 'Estiramientos de piernas y foam rolling' dura '10 seg' (¿era minutos?)
+[GRUPOS MUSCULARES] fila 8, col 6: typo corregido: 'mlitar' -> 'militar'
+[GRUPOS MUSCULARES] fila 30, col 1: ejercicio SIN NOMBRE en 'GLUTEOS' (series=3, reps=15, descanso=40´´); queda como '[COMPLETAR NOMBRE]'
+[GRUPOS MUSCULARES] fila 226, col 11: typo corregido: 'Ejecicios' -> 'Ejercicios'
+[GRUPOS MUSCULARES] fila 242, col 11: typo corregido: 'Ejecicios' -> 'Ejercicios'
+[GRUPOS MUSCULARES] fila 258, col 11: sin nombre en el Excel; se infirió 'Ejercicios de estiramientos de core' por los bloques vecinos (revisar)
+[GRUPOS MUSCULARES] fila 274, col 11: sin nombre en el Excel; se infirió 'Ejercicios de estiramientos de core' por los bloques vecinos (revisar)
+[GRUPOS MUSCULARES] fila 290, col 11: sin nombre en el Excel; se infirió 'Ejercicios de estiramientos de core' por los bloques vecinos (revisar)
+[GRUPOS MUSCULARES] filas 232-233: los niveles de los 3 bloques de CORE están desordenados en el Excel (A dice "Avanzados nivel 1", F dice "RUTINA BASICA" pero tiene abdominales con rueda, K dice "PRINCIPIANTES"). Se respetó el texto del encabezado; conviene revisar a mano.
+[GRUPOS MUSCULARES] "Estiramientos mucho despues" (gluteos y piernas, gluteos): texto raro, se dejó como está.
+[General] El Excel no tiene datos de sexo: todas las rutinas quedaron con "sexo": "unisex".

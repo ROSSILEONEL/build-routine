@@ -1,0 +1,1161 @@
+[
+  {
+    "id": "abduccion-cadera",
+    "nombre": "Abducción de cadera en máquina",
+    "musculo": "Glúteo medio",
+    "tips": [
+      "Espalda apoyada y torso quieto.",
+      "Abrí las piernas hasta el máximo cómodo.",
+      "Volvé lento, sin que choquen las placas."
+    ],
+    "errorComun": "Balancear el torso para mover más peso.",
+    "video": "/ejercicios/abduccion-cadera.webm",
+    "fuente": "Thigh_Abductor"
+  },
+  {
+    "id": "aperturas",
+    "nombre": "Aperturas con mancuernas",
+    "musculo": "Pectoral",
+    "tips": [
+      "Codos levemente flexionados y fijos.",
+      "Abrí en arco hasta sentir el estiramiento, sin pasar la línea de los hombros.",
+      "Cerrá como si abrazaras un árbol."
+    ],
+    "errorComun": "Flexionar y extender los codos (se convierte en press).",
+    "video": "/ejercicios/aperturas.webm",
+    "fuente": "Dumbbell_Flyes"
+  },
+  {
+    "id": "aperturas-inclinado",
+    "nombre": "Aperturas en banco inclinado",
+    "musculo": "Pectoral superior",
+    "tips": [
+      "Banco a 30°.",
+      "Codos levemente flexionados.",
+      "Bajá controlado y cerrá apretando el pecho arriba."
+    ],
+    "errorComun": "Usar demasiado peso y bajar sin control.",
+    "video": "/ejercicios/aperturas-inclinado.webm",
+    "fuente": "Incline_Dumbbell_Flyes"
+  },
+  {
+    "id": "bicicleta",
+    "nombre": "Abdominales bicicleta",
+    "musculo": "Oblicuos y recto abdominal",
+    "tips": [
+      "Zona lumbar pegada al piso.",
+      "Codo hacia la rodilla contraria mientras estirás la otra pierna.",
+      "Ritmo controlado."
+    ],
+    "errorComun": "Ir rápido moviendo solo los codos.",
+    "video": "/ejercicios/bicicleta.webm",
+    "fuente": "Air_Bike"
+  },
+  {
+    "id": "cruces-polea",
+    "nombre": "Cruces en polea",
+    "musculo": "Pectoral",
+    "tips": [
+      "Un paso adelante, torso apenas inclinado.",
+      "Codos levemente flexionados, juntá las manos frente al pecho.",
+      "Volvé lento resistiendo el cable."
+    ],
+    "errorComun": "Tirar con los brazos en lugar de con el pecho.",
+    "video": "/ejercicios/cruces-polea.webm",
+    "fuente": "Cable_Crossover"
+  },
+  {
+    "id": "crunch",
+    "nombre": "Crunch abdominal",
+    "musculo": "Recto abdominal",
+    "tips": [
+      "Manos al costado de la cabeza, sin tirar del cuello.",
+      "Despegá solo los omóplatos del piso.",
+      "Exhalá al subir."
+    ],
+    "errorComun": "Tirar de la cabeza con las manos.",
+    "video": "/ejercicios/crunch.webm",
+    "fuente": "Crunches"
+  },
+  {
+    "id": "crunch-balon",
+    "nombre": "Crunch en balón",
+    "musculo": "Recto abdominal",
+    "tips": [
+      "Zona lumbar apoyada en el balón.",
+      "Subí enrollando el torso.",
+      "Volvé estirando el abdomen sobre la pelota."
+    ],
+    "errorComun": "Moverse con impulso.",
+    "video": "/ejercicios/crunch-balon.webm",
+    "fuente": "Exercise_Ball_Crunch"
+  },
+  {
+    "id": "crunch-oblicuo",
+    "nombre": "Crunch oblicuo",
+    "musculo": "Oblicuos",
+    "tips": [
+      "Llevá el hombro hacia la rodilla contraria.",
+      "El movimiento sale del abdomen, no del codo.",
+      "Exhalá al subir."
+    ],
+    "errorComun": "Mover solo el codo.",
+    "video": "/ejercicios/crunch-oblicuo.webm",
+    "fuente": "Oblique_Crunches_-_On_The_Floor"
+  },
+  {
+    "id": "curl-alterno",
+    "nombre": "Curl de bíceps alterno",
+    "musculo": "Bíceps",
+    "tips": [
+      "Un brazo por vez, el otro quieto abajo.",
+      "Girá la palma hacia arriba al subir.",
+      "Torso quieto."
+    ],
+    "errorComun": "Apurar y perder el control en la bajada.",
+    "video": "/ejercicios/curl-alterno.webm",
+    "fuente": "Dumbbell_Alternate_Bicep_Curl"
+  },
+  {
+    "id": "curl-banco",
+    "nombre": "Curl en banco Scott",
+    "musculo": "Bíceps",
+    "tips": [
+      "Axilas apoyadas arriba del banco.",
+      "Bajá hasta casi extender, sin bloquear el codo.",
+      "Subí sin despegar los brazos."
+    ],
+    "errorComun": "Dejar caer la barra abajo (riesgo para el codo).",
+    "video": "/ejercicios/curl-banco.webm",
+    "fuente": "Preacher_Curl"
+  },
+  {
+    "id": "curl-barra",
+    "nombre": "Curl de bíceps con barra",
+    "musculo": "Bíceps",
+    "tips": [
+      "Codos pegados al cuerpo y fijos.",
+      "Subí sin mover el torso.",
+      "Bajá hasta extender casi por completo."
+    ],
+    "errorComun": "Balancear el cuerpo para levantar.",
+    "video": "/ejercicios/curl-barra.webm",
+    "fuente": "Barbell_Curl"
+  },
+  {
+    "id": "curl-barra-z",
+    "nombre": "Curl de bíceps con barra Z",
+    "musculo": "Bíceps",
+    "tips": [
+      "La barra Z cuida las muñecas.",
+      "Codos quietos a los costados.",
+      "Bajada lenta de 2 o 3 segundos."
+    ],
+    "errorComun": "Adelantar los codos al final del movimiento.",
+    "video": "/ejercicios/curl-barra-z.webm",
+    "fuente": "EZ-Bar_Curl"
+  },
+  {
+    "id": "curl-concentrado",
+    "nombre": "Curl concentrado",
+    "musculo": "Bíceps",
+    "tips": [
+      "Sentado, codo apoyado en la cara interna del muslo.",
+      "Subí hacia el hombro sin mover el codo.",
+      "Apretá arriba un segundo."
+    ],
+    "errorComun": "Levantar el codo del muslo.",
+    "video": "/ejercicios/curl-concentrado.webm",
+    "fuente": "Concentration_Curls"
+  },
+  {
+    "id": "curl-inclinado",
+    "nombre": "Curl en banco inclinado",
+    "musculo": "Bíceps (porción larga)",
+    "tips": [
+      "Banco a unos 45°, brazos colgando.",
+      "Subí sin adelantar los codos.",
+      "Bajá hasta estirar completo."
+    ],
+    "errorComun": "Despegar la espalda del banco.",
+    "video": "/ejercicios/curl-inclinado.webm",
+    "fuente": "Incline_Dumbbell_Curl"
+  },
+  {
+    "id": "curl-inverso",
+    "nombre": "Curl inverso",
+    "musculo": "Braquiorradial y antebrazo",
+    "tips": [
+      "Agarre con las palmas hacia abajo.",
+      "Codos fijos.",
+      "Usá menos peso que en el curl normal."
+    ],
+    "errorComun": "Doblar las muñecas.",
+    "video": "/ejercicios/curl-inverso.webm",
+    "fuente": "Reverse_Barbell_Curl"
+  },
+  {
+    "id": "curl-mancuernas",
+    "nombre": "Curl de bíceps con mancuernas",
+    "musculo": "Bíceps",
+    "tips": [
+      "Palmas hacia adelante.",
+      "Codos pegados al cuerpo.",
+      "Apretá el bíceps arriba y bajá controlado."
+    ],
+    "errorComun": "Usar impulso de la espalda.",
+    "video": "/ejercicios/curl-mancuernas.webm",
+    "fuente": "Dumbbell_Bicep_Curl"
+  },
+  {
+    "id": "curl-maquina",
+    "nombre": "Curl de bíceps en máquina",
+    "musculo": "Bíceps",
+    "tips": [
+      "Ajustá el asiento para que el codo quede alineado con el eje.",
+      "Recorrido completo.",
+      "Bajá controlado."
+    ],
+    "errorComun": "Despegar los brazos del apoyo.",
+    "video": "/ejercicios/curl-maquina.webm",
+    "fuente": "Machine_Bicep_Curl"
+  },
+  {
+    "id": "curl-martillo",
+    "nombre": "Curl martillo",
+    "musculo": "Bíceps y braquial",
+    "tips": [
+      "Palmas enfrentadas durante todo el movimiento.",
+      "Codos fijos.",
+      "Bajá lento."
+    ],
+    "errorComun": "Balancear las mancuernas.",
+    "video": "/ejercicios/curl-martillo.webm",
+    "fuente": "Hammer_Curls"
+  },
+  {
+    "id": "curl-piernas",
+    "nombre": "Curl de piernas",
+    "musculo": "Isquiotibiales",
+    "tips": [
+      "La almohadilla va apoyada justo arriba de los talones.",
+      "Cadera pegada al banco todo el movimiento.",
+      "Flexioná hasta arriba y bajá en 2 o 3 segundos."
+    ],
+    "errorComun": "Levantar la cadera para ayudarte.",
+    "video": "/ejercicios/curl-piernas.webm",
+    "fuente": "Lying_Leg_Curls"
+  },
+  {
+    "id": "curl-polea",
+    "nombre": "Curl de bíceps en polea",
+    "musculo": "Bíceps",
+    "tips": [
+      "Polea baja, codos pegados al cuerpo.",
+      "La tensión es constante: bajá lento.",
+      "No te inclines hacia atrás."
+    ],
+    "errorComun": "Mover los codos hacia adelante.",
+    "video": "/ejercicios/curl-polea.webm",
+    "fuente": "Standing_Biceps_Cable_Curl"
+  },
+  {
+    "id": "dominadas",
+    "nombre": "Dominadas",
+    "musculo": "Dorsal y bíceps",
+    "tips": [
+      "Arrancá colgado con los brazos estirados.",
+      "Tirá hasta pasar el mentón por arriba de la barra.",
+      "Bajá controlado hasta extender."
+    ],
+    "errorComun": "Patalear o hacer medio recorrido.",
+    "video": "/ejercicios/dominadas.webm",
+    "fuente": "Pullups"
+  },
+  {
+    "id": "dominadas-asistidas",
+    "nombre": "Dominadas asistidas",
+    "musculo": "Dorsal y bíceps",
+    "tips": [
+      "Usá banda o máquina asistida.",
+      "Mismo recorrido que la dominada: de brazos estirados a mentón arriba.",
+      "Bajá lento: es la mejor forma de progresar."
+    ],
+    "errorComun": "Elegir tanta asistencia que no cueste.",
+    "video": "/ejercicios/dominadas-asistidas.webm",
+    "fuente": "Band_Assisted_Pull-Up"
+  },
+  {
+    "id": "dominadas-con-peso",
+    "nombre": "Dominadas con peso",
+    "musculo": "Dorsal y bíceps",
+    "tips": [
+      "Solo si hacés 8 dominadas limpias sin peso.",
+      "Peso colgado de un cinturón, sin balanceo.",
+      "Recorrido completo en cada repetición."
+    ],
+    "errorComun": "Sumar peso y acortar el recorrido.",
+    "video": "/ejercicios/dominadas-con-peso.webm",
+    "fuente": "Weighted_Pull_Ups"
+  },
+  {
+    "id": "elevacion-cadera",
+    "nombre": "Elevación de cadera",
+    "musculo": "Glúteos",
+    "tips": [
+      "Igual que el puente: talones firmes y glúteos apretados.",
+      "Para más dificultad, hacelo a una pierna.",
+      "Mantené la pelvis nivelada, sin que caiga de un lado."
+    ],
+    "errorComun": "Hacerlo rápido y sin pausa arriba.",
+    "video": "/ejercicios/elevacion-cadera.webm",
+    "fuente": "Single_Leg_Glute_Bridge"
+  },
+  {
+    "id": "elevacion-piernas",
+    "nombre": "Elevación de piernas",
+    "musculo": "Abdomen inferior",
+    "tips": [
+      "Zona lumbar pegada al piso o al banco.",
+      "Subí las piernas casi estiradas.",
+      "Bajá lento sin tocar el piso."
+    ],
+    "errorComun": "Arquear la espalda al bajar.",
+    "video": "/ejercicios/elevacion-piernas.webm",
+    "fuente": "Flat_Bench_Lying_Leg_Raise"
+  },
+  {
+    "id": "elevacion-piernas-giro",
+    "nombre": "Elevación de piernas con giro",
+    "musculo": "Oblicuos",
+    "tips": [
+      "Subí las piernas y al final girá la cadera hacia un lado.",
+      "Bajá controlado y alterná.",
+      "Espalda baja apoyada."
+    ],
+    "errorComun": "Usar impulso.",
+    "video": null,
+    "fuente": null
+  },
+  {
+    "id": "elevaciones-frontales",
+    "nombre": "Elevaciones frontales",
+    "musculo": "Deltoides anterior",
+    "tips": [
+      "Brazos casi extendidos.",
+      "Subí hasta la altura de los ojos.",
+      "Torso quieto, sin balanceo."
+    ],
+    "errorComun": "Usar demasiado peso y arquear la espalda.",
+    "video": "/ejercicios/elevaciones-frontales.webm",
+    "fuente": "Front_Dumbbell_Raise"
+  },
+  {
+    "id": "elevaciones-laterales",
+    "nombre": "Elevaciones laterales",
+    "musculo": "Deltoides lateral",
+    "tips": [
+      "Codos levemente flexionados.",
+      "Subí hasta la altura de los hombros, guiando con los codos.",
+      "Bajá lento."
+    ],
+    "errorComun": "Subir con impulso del cuerpo o encoger los hombros.",
+    "video": "/ejercicios/elevaciones-laterales.webm",
+    "fuente": "Side_Lateral_Raise"
+  },
+  {
+    "id": "elevaciones-posteriores-maquina",
+    "nombre": "Elevaciones posteriores en máquina",
+    "musculo": "Deltoides posterior",
+    "tips": [
+      "Pecho apoyado en el respaldo.",
+      "Abrí los brazos hacia atrás, en arco.",
+      "Volvé lento."
+    ],
+    "errorComun": "Encoger los hombros.",
+    "video": "/ejercicios/elevaciones-posteriores-maquina.webm",
+    "fuente": "Reverse_Machine_Flyes"
+  },
+  {
+    "id": "estiramiento-core",
+    "nombre": "Estiramientos de core",
+    "musculo": "Core",
+    "tips": [
+      "Postura de cobra para estirar el abdomen.",
+      "Torsiones acostado para los oblicuos.",
+      "Respirá profundo y sostené 20 a 30 segundos cada posición."
+    ],
+    "errorComun": "Rebotar en los estiramientos.",
+    "video": null,
+    "fuente": null
+  },
+  {
+    "id": "estiramiento-isquios",
+    "nombre": "Estiramiento de isquiotibiales",
+    "musculo": "Isquiotibiales",
+    "tips": [
+      "Pierna estirada, llevá el torso hacia adelante desde la cadera.",
+      "Espalda recta.",
+      "Sostené 20 a 30 segundos sin rebotar."
+    ],
+    "errorComun": "Redondear la espalda para llegar más lejos.",
+    "video": "/ejercicios/estiramiento-isquios.webm",
+    "fuente": "Hamstring_Stretch"
+  },
+  {
+    "id": "extension-piernas",
+    "nombre": "Extensión de piernas",
+    "musculo": "Cuádriceps",
+    "tips": [
+      "Ajustá la máquina para que la rodilla quede alineada con el eje.",
+      "Extendé hasta arriba y apretá el cuádriceps un segundo.",
+      "Bajá lento, sin dejar caer el peso."
+    ],
+    "errorComun": "Usar impulso o levantar la cadera del asiento.",
+    "video": "/ejercicios/extension-piernas.webm",
+    "fuente": "Leg_Extensions"
+  },
+  {
+    "id": "face-pull",
+    "nombre": "Face pull",
+    "musculo": "Deltoides posterior",
+    "tips": [
+      "Polea a la altura de la cara, con cuerda.",
+      "Tirá hacia la frente separando las manos.",
+      "Codos altos y rotá los brazos hacia afuera al final."
+    ],
+    "errorComun": "Tirar hacia el pecho con los codos bajos.",
+    "video": "/ejercicios/face-pull.webm",
+    "fuente": "Face_Pull"
+  },
+  {
+    "id": "flexiones",
+    "nombre": "Flexiones",
+    "musculo": "Pectoral y tríceps",
+    "tips": [
+      "Cuerpo en línea recta de cabeza a talones.",
+      "Manos apenas más abiertas que los hombros.",
+      "Bajá hasta casi tocar el piso con el pecho."
+    ],
+    "errorComun": "Dejar caer la cadera o levantar la cola.",
+    "video": "/ejercicios/flexiones.webm",
+    "fuente": "Pushups"
+  },
+  {
+    "id": "fondos-banco",
+    "nombre": "Fondos en banco",
+    "musculo": "Tríceps",
+    "tips": [
+      "Manos en el borde del banco, dedos hacia adelante.",
+      "Espalda cerca del banco.",
+      "Bajá hasta 90° de codo y empujá."
+    ],
+    "errorComun": "Bajar demasiado y cargar la parte de adelante del hombro.",
+    "video": "/ejercicios/fondos-banco.webm",
+    "fuente": "Bench_Dips"
+  },
+  {
+    "id": "fondos-paralelas",
+    "nombre": "Fondos en paralelas",
+    "musculo": "Tríceps y pectoral",
+    "tips": [
+      "Hombros abajo, lejos de las orejas.",
+      "Bajá hasta que los codos lleguen a unos 90°.",
+      "Torso vertical para enfocar en tríceps."
+    ],
+    "errorComun": "Bajar de más y forzar el hombro.",
+    "video": "/ejercicios/fondos-paralelas.webm",
+    "fuente": "Dips_-_Triceps_Version"
+  },
+  {
+    "id": "fondos-pecho",
+    "nombre": "Fondos en paralelas (pecho)",
+    "musculo": "Pectoral inferior",
+    "tips": [
+      "Inclinate hacia adelante unos 30°.",
+      "Codos algo abiertos.",
+      "Bajá hasta sentir el estiramiento del pecho, sin pasar los 90°."
+    ],
+    "errorComun": "Quedarse vertical (trabaja más el tríceps).",
+    "video": "/ejercicios/fondos-pecho.webm",
+    "fuente": "Dips_-_Chest_Version"
+  },
+  {
+    "id": "gemelos-pie",
+    "nombre": "Elevación de talones de pie",
+    "musculo": "Gemelos",
+    "tips": [
+      "Subí todo lo que puedas sobre la punta de los pies.",
+      "Pausa de un segundo arriba.",
+      "Bajá hasta estirar bien el gemelo."
+    ],
+    "errorComun": "Rebotar y hacer medio recorrido.",
+    "video": "/ejercicios/gemelos-pie.webm",
+    "fuente": "Standing_Calf_Raises"
+  },
+  {
+    "id": "gemelos-sentado",
+    "nombre": "Elevación de talones sentado",
+    "musculo": "Sóleo",
+    "tips": [
+      "Rodillas a 90°, la almohadilla sobre los muslos.",
+      "Subí al máximo y sostené un segundo.",
+      "Bajá lento hasta el estiramiento completo."
+    ],
+    "errorComun": "Ir demasiado rápido.",
+    "video": "/ejercicios/gemelos-sentado.webm",
+    "fuente": "Seated_Calf_Raise"
+  },
+  {
+    "id": "hip-thrust",
+    "nombre": "Hip thrust",
+    "musculo": "Glúteos",
+    "tips": [
+      "Espalda alta apoyada en el banco, barra sobre la cadera (usá almohadilla).",
+      "Empujá con los talones hasta que el torso quede paralelo al piso.",
+      "Mentón levemente hacia el pecho y apretá glúteos arriba."
+    ],
+    "errorComun": "Arquear la espalda baja en lugar de extender la cadera.",
+    "video": "/ejercicios/hip-thrust.webm",
+    "fuente": "Barbell_Hip_Thrust"
+  },
+  {
+    "id": "jalon-pecho",
+    "nombre": "Jalón al pecho",
+    "musculo": "Dorsal",
+    "tips": [
+      "Agarre algo más abierto que los hombros.",
+      "Bajá la barra al pecho alto llevando los codos hacia abajo.",
+      "Pecho arriba, leve inclinación hacia atrás."
+    ],
+    "errorComun": "Llevar la barra detrás de la nuca o tirar con impulso.",
+    "video": "/ejercicios/jalon-pecho.webm",
+    "fuente": "Wide-Grip_Lat_Pulldown"
+  },
+  {
+    "id": "kettlebell-swing",
+    "nombre": "Kettlebell swing",
+    "musculo": "Glúteos e isquios (potencia)",
+    "tips": [
+      "Es una bisagra de cadera, no una sentadilla.",
+      "La fuerza sale del golpe de cadera; los brazos solo guían.",
+      "Arriba: cuerpo recto, glúteos y abdomen apretados."
+    ],
+    "errorComun": "Levantar la pesa con los brazos o con la espalda.",
+    "video": "/ejercicios/kettlebell-swing.webm",
+    "fuente": "One-Arm_Kettlebell_Swings"
+  },
+  {
+    "id": "pajaros",
+    "nombre": "Pájaros con mancuernas",
+    "musculo": "Deltoides posterior",
+    "tips": [
+      "Torso inclinado casi paralelo al piso.",
+      "Abrí los brazos hacia los costados con los codos apenas flexionados.",
+      "Pensá en abrir, no en tirar."
+    ],
+    "errorComun": "Juntar las escápulas y hacerlo de espalda.",
+    "video": "/ejercicios/pajaros.webm",
+    "fuente": "Seated_Bent-Over_Rear_Delt_Raise"
+  },
+  {
+    "id": "patada-gluteos",
+    "nombre": "Patada de glúteos",
+    "musculo": "Glúteos",
+    "tips": [
+      "En cuadrupedia, abdomen firme.",
+      "Llevá el talón hacia el techo con la rodilla a 90°.",
+      "Que el movimiento sea de cadera, no de espalda."
+    ],
+    "errorComun": "Arquear la espalda para subir más la pierna.",
+    "video": "/ejercicios/patada-gluteos.webm",
+    "fuente": "Glute_Kickback"
+  },
+  {
+    "id": "patada-triceps",
+    "nombre": "Patada de tríceps",
+    "musculo": "Tríceps",
+    "tips": [
+      "Torso inclinado y brazo pegado al cuerpo, paralelo al piso.",
+      "Extendé el codo hacia atrás.",
+      "Pausa de un segundo extendido."
+    ],
+    "errorComun": "Balancear el brazo.",
+    "video": "/ejercicios/patada-triceps.webm",
+    "fuente": "Tricep_Dumbbell_Kickback"
+  },
+  {
+    "id": "peso-muerto",
+    "nombre": "Peso muerto",
+    "musculo": "Cadena posterior",
+    "tips": [
+      "Barra pegada a las tibias, pies al ancho de cadera.",
+      "Espalda neutra: pecho arriba y hombros sobre la barra.",
+      "Empujá el piso con las piernas y llevá la cadera adelante al final.",
+      "La barra sube y baja pegada al cuerpo."
+    ],
+    "errorComun": "Redondear la espalda baja al levantar.",
+    "video": "/ejercicios/peso-muerto.webm",
+    "fuente": "Barbell_Deadlift"
+  },
+  {
+    "id": "peso-muerto-mancuernas",
+    "nombre": "Peso muerto con mancuernas",
+    "musculo": "Isquiotibiales y glúteos",
+    "tips": [
+      "Rodillas apenas flexionadas.",
+      "Llevá la cadera atrás y bajá las mancuernas pegadas a las piernas.",
+      "Subí apretando los glúteos."
+    ],
+    "errorComun": "Bajar flexionando la espalda en lugar de la cadera.",
+    "video": "/ejercicios/peso-muerto-mancuernas.webm",
+    "fuente": "Stiff-Legged_Dumbbell_Deadlift"
+  },
+  {
+    "id": "peso-muerto-rumano",
+    "nombre": "Peso muerto rumano",
+    "musculo": "Isquiotibiales y glúteos",
+    "tips": [
+      "Rodillas levemente flexionadas y fijas.",
+      "Cadera atrás hasta sentir el estiramiento de los isquios.",
+      "La barra baja hasta la mitad de la tibia, pegada a las piernas."
+    ],
+    "errorComun": "Convertirlo en sentadilla flexionando de más las rodillas.",
+    "video": "/ejercicios/peso-muerto-rumano.webm",
+    "fuente": "Romanian_Deadlift"
+  },
+  {
+    "id": "peso-muerto-sumo",
+    "nombre": "Peso muerto sumo",
+    "musculo": "Glúteos, aductores e isquios",
+    "tips": [
+      "Pies bien abiertos, manos adentro de las piernas.",
+      "Rodillas empujando hacia afuera.",
+      "Torso más vertical que en el convencional."
+    ],
+    "errorComun": "Subir primero la cadera y dejar la barra atrás.",
+    "video": "/ejercicios/peso-muerto-sumo.webm",
+    "fuente": "Sumo_Deadlift"
+  },
+  {
+    "id": "plancha",
+    "nombre": "Plancha",
+    "musculo": "Core",
+    "tips": [
+      "Antebrazos bajo los hombros.",
+      "Cuerpo recto: glúteos y abdomen apretados.",
+      "Respirá normal, no contengas el aire."
+    ],
+    "errorComun": "Dejar caer la cadera o subirla demasiado.",
+    "video": "/ejercicios/plancha.webm",
+    "fuente": "Plank"
+  },
+  {
+    "id": "plancha-balon",
+    "nombre": "Plancha con balón de estabilidad",
+    "musculo": "Core",
+    "tips": [
+      "Antebrazos sobre el balón, pies en el piso.",
+      "Cuerpo recto, abdomen apretado.",
+      "Cuanto más juntos los pies, más difícil."
+    ],
+    "errorComun": "Dejar caer la cadera.",
+    "video": null,
+    "fuente": null
+  },
+  {
+    "id": "plancha-codo-rodilla",
+    "nombre": "Plancha con codo a rodilla",
+    "musculo": "Core y oblicuos",
+    "tips": [
+      "Desde la plancha, llevá la rodilla hacia el codo del mismo lado.",
+      "Mantené la cadera baja.",
+      "Alterná lados."
+    ],
+    "errorComun": "Levantar la cola.",
+    "video": null,
+    "fuente": null
+  },
+  {
+    "id": "plancha-elevacion-pierna",
+    "nombre": "Plancha con elevación de pierna",
+    "musculo": "Core y glúteos",
+    "tips": [
+      "Desde la plancha, subí una pierna estirada unos centímetros.",
+      "La cadera no rota ni se mueve.",
+      "Alterná piernas."
+    ],
+    "errorComun": "Subir la pierna de más y arquear la espalda.",
+    "video": null,
+    "fuente": null
+  },
+  {
+    "id": "plancha-lateral",
+    "nombre": "Plancha lateral",
+    "musculo": "Oblicuos",
+    "tips": [
+      "Codo bajo el hombro.",
+      "Cadera arriba, cuerpo en línea recta.",
+      "Mirada al frente."
+    ],
+    "errorComun": "Dejar caer la cadera.",
+    "video": "/ejercicios/plancha-lateral.webm",
+    "fuente": "Side_Bridge"
+  },
+  {
+    "id": "plancha-rotacion",
+    "nombre": "Plancha con rotación de tronco",
+    "musculo": "Oblicuos",
+    "tips": [
+      "Desde la plancha, girá a plancha lateral abriendo el brazo al techo.",
+      "Volvé al centro y cambiá de lado.",
+      "Movimiento lento."
+    ],
+    "errorComun": "Perder la línea del cuerpo al girar.",
+    "video": null,
+    "fuente": null
+  },
+  {
+    "id": "plancha-toques-hombro",
+    "nombre": "Plancha con toques a los hombros",
+    "musculo": "Core (antirrotación)",
+    "tips": [
+      "Plancha alta con los pies algo separados.",
+      "Tocá el hombro contrario sin mover la cadera.",
+      "Lento y controlado."
+    ],
+    "errorComun": "Balancear la cadera de lado a lado.",
+    "video": null,
+    "fuente": null
+  },
+  {
+    "id": "prensa",
+    "nombre": "Prensa de piernas",
+    "musculo": "Cuádriceps y glúteos",
+    "tips": [
+      "Espalda y cadera bien apoyadas en el respaldo.",
+      "Pies al ancho de hombros en el centro de la plataforma.",
+      "Bajá hasta unos 90° de rodilla sin despegar la cola del asiento."
+    ],
+    "errorComun": "Bloquear las rodillas por completo arriba.",
+    "video": "/ejercicios/prensa.webm",
+    "fuente": "Leg_Press"
+  },
+  {
+    "id": "press-banca",
+    "nombre": "Press de banca con barra",
+    "musculo": "Pectoral",
+    "tips": [
+      "Escápulas juntas y hacia abajo, pies firmes en el piso.",
+      "Bajá la barra a la línea del pecho, codos a unos 45° del torso.",
+      "Empujá hacia arriba y levemente hacia atrás."
+    ],
+    "errorComun": "Rebotar la barra en el pecho o abrir los codos a 90°.",
+    "video": "/ejercicios/press-banca.webm",
+    "fuente": "Barbell_Bench_Press_-_Medium_Grip"
+  },
+  {
+    "id": "press-banca-mancuernas",
+    "nombre": "Press de banca con mancuernas",
+    "musculo": "Pectoral",
+    "tips": [
+      "Mancuernas a la altura del pecho, antebrazos verticales.",
+      "Empujá hasta casi juntarlas arriba.",
+      "Bajá lento sintiendo el estiramiento del pecho."
+    ],
+    "errorComun": "Bajar sin control y perder la estabilidad de los hombros.",
+    "video": "/ejercicios/press-banca-mancuernas.webm",
+    "fuente": "Dumbbell_Bench_Press"
+  },
+  {
+    "id": "press-inclinado-barra",
+    "nombre": "Press inclinado con barra",
+    "musculo": "Pectoral superior",
+    "tips": [
+      "Banco a unos 30°, no más.",
+      "La barra baja a la parte alta del pecho.",
+      "Escápulas retraídas todo el tiempo."
+    ],
+    "errorComun": "Inclinar demasiado el banco y convertirlo en press de hombros.",
+    "video": "/ejercicios/press-inclinado-barra.webm",
+    "fuente": "Barbell_Incline_Bench_Press_-_Medium_Grip"
+  },
+  {
+    "id": "press-inclinado-mancuernas",
+    "nombre": "Press inclinado con mancuernas",
+    "musculo": "Pectoral superior",
+    "tips": [
+      "Banco a 30°, espalda bien apoyada.",
+      "Bajá las mancuernas a los costados del pecho alto.",
+      "Subí en un arco suave, sin chocarlas."
+    ],
+    "errorComun": "Despegar la cadera del banco.",
+    "video": "/ejercicios/press-inclinado-mancuernas.webm",
+    "fuente": "Incline_Dumbbell_Press"
+  },
+  {
+    "id": "press-maquina",
+    "nombre": "Press de pecho en máquina",
+    "musculo": "Pectoral",
+    "tips": [
+      "Ajustá el asiento para que las manijas queden a la altura del pecho.",
+      "Espalda apoyada y escápulas atrás.",
+      "Volvé lento hasta sentir el estiramiento."
+    ],
+    "errorComun": "Despegar la espalda del respaldo al empujar.",
+    "video": "/ejercicios/press-maquina.webm",
+    "fuente": "Machine_Bench_Press"
+  },
+  {
+    "id": "press-militar-barra",
+    "nombre": "Press militar con barra",
+    "musculo": "Deltoides",
+    "tips": [
+      "Glúteos y abdomen apretados.",
+      "La barra sale desde el pecho alto y sube en línea recta.",
+      "Corré la cabeza hacia atrás para dejarla pasar."
+    ],
+    "errorComun": "Arquear la espalda baja para empujar.",
+    "video": "/ejercicios/press-militar-barra.webm",
+    "fuente": "Standing_Military_Press"
+  },
+  {
+    "id": "press-militar-mancuernas",
+    "nombre": "Press militar con mancuernas",
+    "musculo": "Deltoides",
+    "tips": [
+      "Mancuernas a la altura de las orejas.",
+      "Empujá hasta casi juntarlas arriba.",
+      "Bajá controlado."
+    ],
+    "errorComun": "Bajar muy poco o arquear la espalda.",
+    "video": "/ejercicios/press-militar-mancuernas.webm",
+    "fuente": "Dumbbell_Shoulder_Press"
+  },
+  {
+    "id": "puente-gluteos",
+    "nombre": "Puente de glúteos",
+    "musculo": "Glúteos",
+    "tips": [
+      "Acostado, rodillas flexionadas y pies cerca de la cola.",
+      "Subí la cadera apretando glúteos.",
+      "Sostené un segundo arriba y bajá controlado."
+    ],
+    "errorComun": "Empujar con la espalda baja.",
+    "video": "/ejercicios/puente-gluteos.webm",
+    "fuente": "Butt_Lift_Bridge"
+  },
+  {
+    "id": "puente-gluteos-barra",
+    "nombre": "Puente de glúteos con barra",
+    "musculo": "Glúteos",
+    "tips": [
+      "Barra sobre la cadera con almohadilla.",
+      "Talones firmes en el piso, empujá hacia arriba.",
+      "Pausa arriba y bajá sin apoyar del todo la cola."
+    ],
+    "errorComun": "Hiperextender la zona lumbar.",
+    "video": "/ejercicios/puente-gluteos-barra.webm",
+    "fuente": "Barbell_Glute_Bridge"
+  },
+  {
+    "id": "pullover",
+    "nombre": "Pullover con mancuerna",
+    "musculo": "Dorsal y pectoral",
+    "tips": [
+      "Agarrá la mancuerna con las dos manos, codos levemente flexionados.",
+      "Llevala hacia atrás de la cabeza hasta sentir el estiramiento.",
+      "Volvé hasta arriba del pecho."
+    ],
+    "errorComun": "Bajar de más y arquear la espalda.",
+    "video": "/ejercicios/pullover.webm",
+    "fuente": "Bent-Arm_Dumbbell_Pullover"
+  },
+  {
+    "id": "remo-al-menton",
+    "nombre": "Remo al mentón con barra",
+    "musculo": "Deltoides y trapecio",
+    "tips": [
+      "Agarre al ancho de hombros (más cerrado carga el hombro).",
+      "Subí la barra hasta el pecho alto, codos por encima de las manos.",
+      "Si molesta el hombro, frená más abajo."
+    ],
+    "errorComun": "Subir demasiado alto con agarre cerrado.",
+    "video": "/ejercicios/remo-al-menton.webm",
+    "fuente": "Upright_Barbell_Row"
+  },
+  {
+    "id": "remo-al-menton-mancuernas",
+    "nombre": "Remo al mentón con mancuernas",
+    "musculo": "Deltoides y trapecio",
+    "tips": [
+      "Mancuernas pegadas al cuerpo.",
+      "Codos guían el movimiento hacia arriba.",
+      "No pases la altura del pecho alto."
+    ],
+    "errorComun": "Encoger el cuello y tirar con impulso.",
+    "video": "/ejercicios/remo-al-menton-mancuernas.webm",
+    "fuente": "Standing_Dumbbell_Upright_Row"
+  },
+  {
+    "id": "remo-barra",
+    "nombre": "Remo con barra",
+    "musculo": "Dorsal y espalda media",
+    "tips": [
+      "Torso inclinado a unos 45°, espalda neutra.",
+      "Tirá la barra hacia el ombligo.",
+      "Juntá las escápulas arriba."
+    ],
+    "errorComun": "Pararse con cada repetición para usar impulso.",
+    "video": "/ejercicios/remo-barra.webm",
+    "fuente": "Bent_Over_Barbell_Row"
+  },
+  {
+    "id": "remo-barra-t",
+    "nombre": "Remo con barra T",
+    "musculo": "Espalda media",
+    "tips": [
+      "Pecho arriba y espalda neutra.",
+      "Tirá con los codos pegados al cuerpo.",
+      "Bajá controlado hasta estirar los brazos."
+    ],
+    "errorComun": "Redondear la espalda baja.",
+    "video": "/ejercicios/remo-barra-t.webm",
+    "fuente": "T-Bar_Row_with_Handle"
+  },
+  {
+    "id": "remo-cable",
+    "nombre": "Remo con cable",
+    "musculo": "Espalda media",
+    "tips": [
+      "Rodillas levemente flexionadas, torso erguido.",
+      "Tirá hacia el abdomen juntando las escápulas.",
+      "Volvé lento sin redondear la espalda."
+    ],
+    "errorComun": "Balancear el torso hacia atrás.",
+    "video": "/ejercicios/remo-cable.webm",
+    "fuente": "Seated_Cable_Rows"
+  },
+  {
+    "id": "remo-mancuerna",
+    "nombre": "Remo con mancuerna",
+    "musculo": "Dorsal",
+    "tips": [
+      "Rodilla y mano apoyadas en el banco, espalda plana.",
+      "Llevá la mancuerna hacia la cadera.",
+      "Codo cerca del cuerpo."
+    ],
+    "errorComun": "Girar el torso para subir la pesa.",
+    "video": "/ejercicios/remo-mancuerna.webm",
+    "fuente": "One-Arm_Dumbbell_Row"
+  },
+  {
+    "id": "remo-maquina",
+    "nombre": "Remo en máquina",
+    "musculo": "Espalda media",
+    "tips": [
+      "Pecho apoyado en la almohadilla.",
+      "Tirá con los codos hacia atrás.",
+      "Apretá las escápulas un segundo."
+    ],
+    "errorComun": "Encoger los hombros hacia las orejas.",
+    "video": "/ejercicios/remo-maquina.webm",
+    "fuente": "Leverage_Iso_Row"
+  },
+  {
+    "id": "rueda",
+    "nombre": "Abdominales con rueda",
+    "musculo": "Core",
+    "tips": [
+      "De rodillas, abdomen apretado.",
+      "Rodá hacia adelante solo hasta donde mantengas la espalda neutra.",
+      "Volvé contrayendo el abdomen."
+    ],
+    "errorComun": "Ir muy lejos y hundir la zona lumbar.",
+    "video": "/ejercicios/rueda.webm",
+    "fuente": "Ab_Roller"
+  },
+  {
+    "id": "russian-twist",
+    "nombre": "Russian twist",
+    "musculo": "Oblicuos",
+    "tips": [
+      "Sentado, torso inclinado hacia atrás y espalda recta.",
+      "Girá el tronco de lado a lado, no solo los brazos.",
+      "Para más dificultad, levantá los pies."
+    ],
+    "errorComun": "Encorvar la espalda.",
+    "video": "/ejercicios/russian-twist.webm",
+    "fuente": "Russian_Twist"
+  },
+  {
+    "id": "salto-caja",
+    "nombre": "Salto al cajón",
+    "musculo": "Piernas (potencia)",
+    "tips": [
+      "Elegí una altura que domines.",
+      "Usá los brazos para impulsarte.",
+      "Caé suave arriba, en sentadilla, y bajá caminando."
+    ],
+    "errorComun": "Saltar hacia abajo del cajón (castiga tendones y rodillas).",
+    "video": "/ejercicios/salto-caja.webm",
+    "fuente": "Front_Box_Jump"
+  },
+  {
+    "id": "sentadilla-barra",
+    "nombre": "Sentadilla con barra",
+    "musculo": "Cuádriceps y glúteos",
+    "tips": [
+      "Barra apoyada sobre los trapecios, no sobre la nuca.",
+      "Pies al ancho de hombros, puntas apenas hacia afuera.",
+      "Bajá con la cadera hacia atrás y las rodillas siguiendo la línea de los pies.",
+      "Pecho arriba y espalda neutra durante todo el recorrido."
+    ],
+    "errorComun": "Dejar que las rodillas se vayan hacia adentro al subir.",
+    "video": "/ejercicios/sentadilla-barra.webm",
+    "fuente": "Barbell_Squat"
+  },
+  {
+    "id": "sentadilla-mancuernas",
+    "nombre": "Sentadilla con mancuernas",
+    "musculo": "Cuádriceps y glúteos",
+    "tips": [
+      "Mancuernas a los costados, brazos relajados.",
+      "Bajá controlado hasta que los muslos queden paralelos al piso.",
+      "Empujá el piso con todo el pie para subir."
+    ],
+    "errorComun": "Levantar los talones o inclinar el torso hacia adelante.",
+    "video": "/ejercicios/sentadilla-mancuernas.webm",
+    "fuente": "Dumbbell_Squat"
+  },
+  {
+    "id": "sentadilla-peso-corporal",
+    "nombre": "Sentadilla con peso corporal",
+    "musculo": "Cuádriceps y glúteos",
+    "tips": [
+      "Brazos al frente para equilibrarte.",
+      "Llevá la cadera atrás como si te sentaras en una silla.",
+      "Rodillas en la dirección de las puntas de los pies."
+    ],
+    "errorComun": "Bajar rápido y rebotar abajo.",
+    "video": "/ejercicios/sentadilla-peso-corporal.webm",
+    "fuente": "Bodyweight_Squat"
+  },
+  {
+    "id": "sentadilla-salto",
+    "nombre": "Sentadilla con salto",
+    "musculo": "Cuádriceps y glúteos (potencia)",
+    "tips": [
+      "Bajá a media sentadilla y saltá con fuerza extendiendo cadera y rodillas.",
+      "Caé suave, con las rodillas flexionadas, y encadená el siguiente salto.",
+      "Priorizá la calidad del salto antes que la velocidad."
+    ],
+    "errorComun": "Aterrizar con las piernas rígidas.",
+    "video": "/ejercicios/sentadilla-salto.webm",
+    "fuente": "Freehand_Jump_Squat"
+  },
+  {
+    "id": "sentadilla-sumo",
+    "nombre": "Sentadilla sumo",
+    "musculo": "Aductores y glúteos",
+    "tips": [
+      "Pies bien abiertos, puntas hacia afuera a unos 45°.",
+      "Torso erguido, el peso cuelga entre las piernas.",
+      "Empujá las rodillas hacia afuera al bajar y al subir."
+    ],
+    "errorComun": "Cerrar las rodillas o encorvar la espalda.",
+    "video": "/ejercicios/sentadilla-sumo.webm",
+    "fuente": "Plie_Dumbbell_Squat"
+  },
+  {
+    "id": "triceps-barra-z",
+    "nombre": "Extensiones de tríceps con barra Z",
+    "musculo": "Tríceps",
+    "tips": [
+      "Acostado en banco, brazos verticales.",
+      "Bajá la barra hacia la frente moviendo solo los codos.",
+      "Extendé sin bloquear de golpe."
+    ],
+    "errorComun": "Mover los hombros y convertirlo en press.",
+    "video": "/ejercicios/triceps-barra-z.webm",
+    "fuente": "EZ-Bar_Skullcrusher"
+  },
+  {
+    "id": "triceps-cuerda",
+    "nombre": "Extensiones de tríceps con cuerda",
+    "musculo": "Tríceps",
+    "tips": [
+      "Codos fijos a los costados.",
+      "Abajo, separá las puntas de la cuerda.",
+      "Volvé lento."
+    ],
+    "errorComun": "Inclinarse demasiado sobre la polea.",
+    "video": "/ejercicios/triceps-cuerda.webm",
+    "fuente": "Triceps_Pushdown_-_Rope_Attachment"
+  },
+  {
+    "id": "triceps-mancuernas",
+    "nombre": "Extensiones de tríceps con mancuerna",
+    "musculo": "Tríceps",
+    "tips": [
+      "Mancuerna arriba de la cabeza con las dos manos.",
+      "Bajá detrás de la nuca moviendo solo los codos.",
+      "Codos apuntando al techo."
+    ],
+    "errorComun": "Abrir los codos hacia los costados.",
+    "video": "/ejercicios/triceps-mancuernas.webm",
+    "fuente": "Standing_Dumbbell_Triceps_Extension"
+  },
+  {
+    "id": "triceps-polea",
+    "nombre": "Extensiones de tríceps en polea",
+    "musculo": "Tríceps",
+    "tips": [
+      "Codos pegados al cuerpo y fijos.",
+      "Extendé hasta abajo y apretá el tríceps.",
+      "Subí controlado hasta 90°."
+    ],
+    "errorComun": "Despegar los codos y empujar con el cuerpo.",
+    "video": "/ejercicios/triceps-polea.webm",
+    "fuente": "Triceps_Pushdown"
+  },
+  {
+    "id": "v-ups",
+    "nombre": "V-ups",
+    "musculo": "Recto abdominal",
+    "tips": [
+      "Acostado, brazos estirados atrás.",
+      "Subí piernas y torso a la vez formando una V.",
+      "Bajá controlado."
+    ],
+    "errorComun": "Doblar las piernas y tirar con impulso.",
+    "video": "/ejercicios/v-ups.webm",
+    "fuente": "Jackknife_Sit-Up"
+  },
+  {
+    "id": "zancadas",
+    "nombre": "Zancadas",
+    "musculo": "Cuádriceps y glúteos",
+    "tips": [
+      "Paso largo, torso derecho.",
+      "Bajá hasta que la rodilla de atrás casi toque el piso.",
+      "La rodilla de adelante queda sobre el pie, no se va hacia adentro."
+    ],
+    "errorComun": "Dar un paso muy corto y cargar todo en la rodilla.",
+    "video": "/ejercicios/zancadas.webm",
+    "fuente": "Dumbbell_Lunges"
+  },
+  {
+    "id": "zancadas-barra",
+    "nombre": "Zancadas con barra",
+    "musculo": "Cuádriceps y glúteos",
+    "tips": [
+      "Barra sobre los trapecios, abdomen firme.",
+      "Paso largo y bajá vertical.",
+      "Empujá con el talón de la pierna de adelante para volver."
+    ],
+    "errorComun": "Perder el equilibrio por pisar en línea recta (dejá un poco de ancho entre los pies).",
+    "video": "/ejercicios/zancadas-barra.webm",
+    "fuente": "Barbell_Lunge"
+  }
+]
