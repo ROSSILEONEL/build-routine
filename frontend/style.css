@@ -1751,3 +1751,27 @@ select:focus-visible {
     padding: 12px 10px;
   }
 }
+
+/* Estado de carga / error del catálogo */
+.catalogo-estado {
+  margin: 0 0 12px;
+  padding: 14px 16px;
+  border: 1px dashed var(--line);
+  border-radius: 12px;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.catalogo-error {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  border-color: rgb(255 147 139 / 35%);
+  color: #f2c9c4;
+}
+
+.catalogo-error p {
+  margin: 0;
+}

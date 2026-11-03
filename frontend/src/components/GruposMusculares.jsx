@@ -1,9 +1,7 @@
-import { useMemo, useState } from 'react';
-import rutinas from '../data/rutinas.json';
-import ejercicios from '../data/ejercicios.json';
+import { useCallback, useEffect, useMemo, useState } from 'react';
+import { obtenerEjercicios, obtenerPlantillas } from '../api.js';
 
-// Por ahora el catálogo se lee del JSON. Cuando exista GET /api/rutinas,
-// solo hay que reemplazar este import por un fetch.
+// El catálogo (rutinas y fichas de ejercicios) viene de la API: GET /api/plantillas y /api/ejercicios.
 
 const NIVELES = [
   { id: 'principiante', label: 'Principiante', carga: 1 },
@@ -34,9 +32,6 @@ const GRUPOS = [
   { id: 'core', label: 'Core', icon: '🔥', claves: ['core'] },
   { id: 'completo', label: 'Cuerpo completo', icon: '🏋️', claves: [] },
 ];
-
-// Ficha de cada ejercicio base (tips, error común y animación), por id.
-const FICHAS = Object.fromEntries(ejercicios.map((e) => [e.id, e]));
 
 const sinAcentos = (texto) => texto.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
 
@@ -166,7 +161,7 @@ function FichaEjercicio({ ficha }) {
   );
 }
 
-function TarjetaRutina({ rutina, abierta, onToggle }) {
+function TarjetaRutina({ rutina, fichas, abierta, onToggle }) {
   const [ejAbierto, setEjAbierto] = useState(null);
   const totalEjercicios = rutina.dias.reduce((t, dia) => t + dia.ejercicios.length, 0);
   const nivel = NIVELES.find((n) => n.id === rutina.nivel);
@@ -207,7 +202,7 @@ function TarjetaRutina({ rutina, abierta, onToggle }) {
               <ol>
                 {dia.ejercicios.map((ej) => {
                   const clave = `${iDia}-${ej.orden}`;
-                  const ficha = FICHAS[ej.ejercicioId];
+                  const ficha = fichas[ej.ejercicioId];
                   const abiertoEj = ejAbierto === clave;
                   return (
                     <li key={clave} className={ej.revisar ? 'revisar' : ''}>
@@ -247,9 +242,35 @@ function TarjetaRutina({ rutina, abierta, onToggle }) {
   );
 }
 
+// Pide rutinas y fichas a la API. Devuelve el estado de la carga y una función para reintentar.
+function useCatalogo() {
+  const [datos, setDatos] = useState({ estado: 'cargando', rutinas: [], fichas: {} });
+  const [intento, setIntento] = useState(0);
+
+  useEffect(() => {
+    const control = new AbortController(); // cancela el pedido si el componente se desmonta
+    setDatos((d) => ({ ...d, estado: 'cargando' }));
+    Promise.all([obtenerPlantillas({}, control.signal), obtenerEjercicios(control.signal)])
+      .then(([rutinas, ejercicios]) => {
+        // Fichas por código para encontrarlas rápido: fichas['sentadilla-barra']
+        const fichas = Object.fromEntries(ejercicios.map((e) => [e.codigo, e]));
+        setDatos({ estado: 'listo', rutinas, fichas });
+      })
+      .catch((error) => {
+        if (error.name === 'AbortError') return;
+        setDatos({ estado: 'error', rutinas: [], fichas: {}, mensaje: error.message });
+      });
+    return () => control.abort();
+  }, [intento]);
+
+  const reintentar = useCallback(() => setIntento((n) => n + 1), []);
+  return { ...datos, reintentar };
+}
+
 function GruposMusculares() {
   const [grupoActivo, setGrupoActivo] = useState(null);
   const [rutinaAbierta, setRutinaAbierta] = useState(null);
+  const { estado, rutinas, fichas, mensaje, reintentar } = useCatalogo();
 
   // Agrupa una sola vez: { pecho: { principiante: [...], intermedio: [...], avanzado: [...] }, ... }
   const catalogo = useMemo(() => {
@@ -260,7 +281,7 @@ function GruposMusculares() {
       gruposDeRutina(rutina).forEach((grupo) => base[grupo][rutina.nivel].push(rutina));
     });
     return base;
-  }, []);
+  }, [rutinas]);
 
   const grupo = GRUPOS.find((g) => g.id === grupoActivo);
 
@@ -285,6 +306,15 @@ function GruposMusculares() {
           ))}
         </ul>
       </div>
+
+      {estado === 'cargando' && <p className="catalogo-estado" role="status">Cargando el catálogo…</p>}
+
+      {estado === 'error' && (
+        <div className="catalogo-estado catalogo-error" role="alert">
+          <p>No se pudo cargar el catálogo. {mensaje}</p>
+          <button type="button" className="grupo-cerrar" onClick={reintentar}>Reintentar</button>
+        </div>
+      )}
 
       <div className="grupos-grid">
         {GRUPOS.map((g) => {
@@ -334,10 +364,11 @@ function GruposMusculares() {
                   {lista.length ? (
                     conVariantes(lista).map((rutina) => (
                       <TarjetaRutina
-                        key={rutina.id}
+                        key={rutina.codigo}
                         rutina={rutina}
-                        abierta={rutinaAbierta === rutina.id}
-                        onToggle={() => setRutinaAbierta((a) => (a === rutina.id ? null : rutina.id))}
+                        fichas={fichas}
+                        abierta={rutinaAbierta === rutina.codigo}
+                        onToggle={() => setRutinaAbierta((a) => (a === rutina.codigo ? null : rutina.codigo))}
                       />
                     ))
                   ) : (
